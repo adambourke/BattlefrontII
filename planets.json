@@ -1,0 +1,99 @@
+planets=[
+      { 
+         "name":"Bespin",
+         "imgUrl":"https://cdnb.artstation.com/p/assets/covers/images/004/237/685/large/daniel-cambrand-danielcambrand-03.jpg"
+      },
+      { 
+         "name":"Crait",
+         "imgUrl":"https://cdna.artstation.com/p/assets/images/images/009/728/722/large/mikael-andersson-swbfii-mikaelandersson-28.jpg?1520549861"
+      },
+      { 
+         "name":"Death Star II",
+         "imgUrl":"http://getwallpapers.com/wallpaper/full/7/a/0/320881.jpg"
+      },
+      { 
+         "name":"Dreadnought",
+         "imgUrl":"https://cdna.artstation.com/p/assets/images/images/020/328/558/large/saralie-wagstrom-swbf-saraliewagstrom-06.jpg?1567361315"
+      },
+      { 
+         "name":"Endor",
+         "imgUrl":"https://media.contentapi.ea.com/content/legacy/starwars-ea-com/es_MX/starwars/battlefront/news-articles/the-star-wars-battlefront-planets--creating-endor/_jcr_content/featuredImage/renditions/rendition1.img.jpg"
+      },
+      { 
+         "name":"Felucia",
+         "imgUrl":"https://cdn.wccftech.com/wp-content/uploads/2019/09/swbfII_clone_commando.jpg"
+      },
+      { 
+         "name":"Geonosis",
+         "imgUrl":"https://cdnb.artstation.com/p/assets/images/images/014/320/967/large/pontus-ryman-swbfii-pontusryman-07.jpg?1543483500"
+      },
+      { 
+         "name":"Hoth",
+         "imgUrl":"https://lumiere-a.akamaihd.net/v1/images/Hoth_d074d307.jpeg"
+      },
+      { 
+         "name":"Jakku",
+         "imgUrl":"https://cdna.artstation.com/p/assets/images/images/009/033/696/large/anton-kavousi-swbfii-antonkavousi-03.jpg?1516747707"
+      },
+      { 
+         "name":"Kamino",
+         "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/d/d1/Kamino_Facility_Andrew_Hamilton.jpg/revision/latest?cb=20180308210107"
+      },
+      { 
+         "name":"Kashyyyk",
+         "imgUrl":"https://i.redd.it/vocninji9jt11.jpg"
+      },
+      { 
+         "name":"Kessel",
+         "imgUrl":"https://cdna.artstation.com/p/assets/images/images/013/864/392/large/michael-anderson-swbfii-michaelanderson-21.jpg?1541431881"
+      },
+      { 
+         "name":"Naboo",
+         "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/7/79/Naboo_Theed_-_Royal_Palace_%281%29_-_Mikael_Andersson_DICE.jpg"
+      },
+      { 
+         "name":"Pillio",
+         "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/e/e1/SWB2-The_Observatory.jpg/revision/latest?cb=20171202012804",
+		 "availability": "unavailable"
+      },
+      { 
+         "name":"Scarif",
+         "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/8/83/LandingPad13LoadingScreen.png/revision/latest?cb=20170725131013",
+		 "availability": "unavailable"
+      },
+      { 
+         "name":"Starkiller Base",
+         "imgUrl":"https://cdna.artstation.com/p/assets/images/images/010/231/578/large/marcus-fritze-swbfii-marcusfritze-18.jpg?1523305576"
+      },
+      { 
+         "name":"Sullust",
+         "imgUrl":"https://cdna.artstation.com/p/assets/images/images/010/274/502/large/mathieu-latour-duhaime-swbfii-mathieulatourduhaime-09.jpg?1523543949",
+		 "availability": "unavailable"
+      },
+      { 
+         "name":"Takodana",
+         "imgUrl":"https://cdnb.artstation.com/p/assets/images/images/009/707/633/large/daniel-rocque-swbfii-danielrocquebengtsson-02.jpg?1520445639"
+      },
+	  { 
+         "name":"Tatooine",
+         "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/d/d9/Mos_Eisley_View.jpg/revision/latest?cb=20180307193130"
+      },
+      { 
+         "name":"Vardos",
+         "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/c/c7/SWB2-Art-Vardos.jpg/revision/latest?cb=20171202011459",
+		 "availability": "unavailable"
+      },
+      { 
+         "name":"Venator",
+         "imgUrl":"https://images3.alphacoders.com/883/883581.png"
+      },
+      { 
+         "name":"Yavin 4",
+         "imgUrl":"https://i.redd.it/ig9ectnjbgsz.jpg"
+      },
+      { 
+         "name":"Coming Soon...",
+         "imgUrl":"https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/04/star-wars-rise-of-skywalker-logo.jpg",
+		 "availability": "future-content"
+      }
+   ]

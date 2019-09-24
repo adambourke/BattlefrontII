@@ -1,0 +1,72 @@
+body {
+		margin: 0;
+		font-family: Arial, Helvetica, sans-serif;
+  background-color: #000000;
+  background-image: url(https://s22380.pcdn.co/wp-content/uploads/Bob-Frank-R-Leporis-768x512.jpg);
+	}
+
+	img.itemCard {
+		
+		border-radius: 30px;
+		width: 288px;
+		height: 162px;
+		border-radius: 30px;
+		border-color: yellow;
+		padding-bottom: 10px;
+		
+	}
+	
+	div.itemCard.unavailable{
+		
+			border-color: red;
+	}
+	
+	
+	div.itemCard.future-content{
+		
+			border-color: blue;
+	}
+	
+	div.itemCard {
+		
+		
+		border-color: yellow;
+		border-style: solid;
+		border-width: 2px;
+		border-radius: 30px;
+		padding-right:10px;
+		padding-left:10px;
+		padding-top: 10px;
+		padding-bottom: 2px;
+		height: 230px
+	
+	}
+	
+	h1.itemCard {
+		text-align: right;
+		padding-right: 10px;
+		margin-top: 5px;
+		color: yellow;
+	}
+	
+	h1.itemCard.future-content{
+		color: yellow
+	}
+	
+	h1.itemCard.unavailable{
+		color.red
+	}
+	
+	div.itemCard {
+		margin: 5px;
+		
+  
+  background-color: #00000099;
+  
+	}
+	
+	.layout {
+   display: grid;
+   grid-template-columns: repeat(auto-fill, minmax(320px, 320px));
+   grid-gap: 20px;
+}
