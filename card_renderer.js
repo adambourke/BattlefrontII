@@ -30,6 +30,15 @@ class Card extends React.Component {
     ); 
   }
   
+  renderDetails() {
+    return e(
+      'h1',
+      {},
+      this.props.summary !== undefined ? this.props.summary.maps : "");
+      
+    
+  }
+  
   renderImage() {
 	  if (!this.state.mouseover){
 	 return e(
@@ -41,16 +50,15 @@ class Card extends React.Component {
 	  }
   }
 
-  render() {
+   render() {
 	let className = "itemCard";
-	console.log(this.props.name + ": " + this.props.availability);
 	if (this.props.availability !== undefined) {
 		className += " " + this.props.availability;
 	}
     return e(
 			'div',
 			{key:this.props.key, className:className, onMouseOver:this.setMouseOver, onMouseOut:this.setMouseOut},
-			[this.renderImage(), this.renderTitle(className)]
+			[this.renderImage(), this.renderTitle(className), this.renderDetails()]
     );
   }
 }
