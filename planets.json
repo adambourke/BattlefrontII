@@ -1,7 +1,12 @@
 planets=[
       { 
          "name":"Bespin",
-         "imgUrl":"https://cdnb.artstation.com/p/assets/covers/images/004/237/685/large/daniel-cambrand-danielcambrand-03.jpg"
+         "imgUrl":"https://cdnb.artstation.com/p/assets/covers/images/004/237/685/large/daniel-cambrand-danielcambrand-03.jpg",
+         "Summary": {
+           "maps": 1,
+           "online-modes": ["hvv", "blast"],
+           "offline-modes": ["campaign","team-battle", "onslaught"]
+         }
       },
       { 
          "name":"Crait",
