@@ -33,13 +33,13 @@ class Card extends React.Component {
   
   renderDetails() {
 	 
-	if (this.state.mouseover){
+	//if (this.state.mouseover){
 	let detailList = [];
 	
 	if (this.props.alert){
 		return e(
-      'h1',
-      {className:"itemCard"},
+      'h2',
+      {className:"itemCard showOnHover"},
 	  this.toFriendlyString(this.props.alert)
     ); 
 	}
@@ -58,10 +58,10 @@ class Card extends React.Component {
 	}
 	  
 	 
-    return e("table",{className:"itemCard"},e("tbody",{className:"itemCard"},detailList));  
-	} else {
-		return null;
-	}
+    return e("table",{className:"itemCard showOnHover"},e("tbody",{className:"itemCard"},detailList));  
+	//} else {
+	//	return null;
+	//}
   }
   
   toFriendlyString(field) {
@@ -96,14 +96,10 @@ class Card extends React.Component {
   }
   
   renderImage() {
-	  if (!this.state.mouseover){
 	 return e(
       'img',
-      {src:this.props.imgUrl, className:"itemCard"}
+      {src:this.props.imgUrl, className:"itemCard hideOnHover"}
     ); 
-	  } else {
-		  return null;
-	  }
   }
 
    render() {

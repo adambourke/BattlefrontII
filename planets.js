@@ -139,7 +139,7 @@ planets=[
       },
       { 
          "name":"Sullust",
-         "imgUrl":"https://cdna.artstation.com/p/assets/images/images/010/274/502/large/mathieu-latour-duhaime-swbfii-mathieulatourduhaime-09.jpg?1523543949",
+         "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/5/56/SWB2-Cache_Grab.jpg",
 		 "availability": "unavailable",
 		 "alert": "alert.campaign-only"
       },
@@ -186,9 +186,9 @@ planets=[
          }
       },
       { 
-         "name":"Coming Soon...",
-         "imgUrl":"https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/04/star-wars-rise-of-skywalker-logo.jpg",
+         "name":"Unknown Planet",
+         "imgUrl":"https://miro.medium.com/max/3840/1*G5I00UNHN3XJF_zEYAxSsA.png",
 		 "availability": "future-content",
-		 "alert": ""
+		 "alert": "alert.coming-soon"
       }
    ]

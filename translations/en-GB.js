@@ -1,5 +1,6 @@
 translations={
 	"alert.campaign-only": "This content is only available in the campaign",
+	"alert.coming-soon": "Coming Soon...",
 	"field.maps": "Maps",
 	"field.online-modes": "Online Modes",
 	"field.offline-modes": "Offline Modes",
