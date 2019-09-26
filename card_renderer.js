@@ -1,6 +1,7 @@
 'use strict';
 
 const e = React.createElement;
+const i18n = translations;
 
 
 
@@ -31,12 +32,67 @@ class Card extends React.Component {
   }
   
   renderDetails() {
-    return e(
+	 
+	if (this.state.mouseover){
+	let detailList = [];
+	
+	if (this.props.alert){
+		return e(
       'h1',
-      {},
-      this.props.summary !== undefined ? this.props.summary.maps : "");
-      
-    
+      {className:"itemCard"},
+	  this.toFriendlyString(this.props.alert)
+    ); 
+	}
+	if (this.props.summary){
+		let details = this.props.summary;
+		for (var field in details){
+			if (Object.prototype.hasOwnProperty.call(details, field)) {
+				let fieldName = e('td', {className:"itemCard "},(this.toFriendlyString(field) + ":"));
+				let fieldValue = e('td', {className:"itemCard "},this.toFriendlyString(details[field]));
+				let row = e('tr', {className:"itemCard"}, [fieldName, fieldValue]);
+				detailList.push(row);
+			}
+		}
+		
+		const detailItem = this.props.summary;
+	}
+	  
+	 
+    return e("table",{className:"itemCard"},e("tbody",{className:"itemCard"},detailList));  
+	} else {
+		return null;
+	}
+  }
+  
+  toFriendlyString(field) {
+	  if (typeof field === "undefined"){
+		  return null;
+	  }
+	  
+	  if (typeof field !== "object"){
+		  let lookup = i18n[field];
+		  if (lookup == undefined){
+			  lookup = field;
+		  }
+		  return lookup;
+	  }
+	  
+	  if (Array.isArray(field)){
+		  let returnValue = "";
+		  for (let i = 0; i < field.length; i++){
+			  let lookup = i18n[field[i]];
+			  if (lookup == undefined){
+				  lookup = field[i];
+			  }
+			  if (i+1 === field.length){
+				returnValue += lookup;
+			  } else {
+				 returnValue += lookup + ", ";
+			  }
+		  }
+		  
+		  return returnValue;
+	  }
   }
   
   renderImage() {
@@ -55,6 +111,8 @@ class Card extends React.Component {
 	if (this.props.availability !== undefined) {
 		className += " " + this.props.availability;
 	}
+	
+	  
     return e(
 			'div',
 			{key:this.props.key, className:className, onMouseOver:this.setMouseOver, onMouseOut:this.setMouseOut},

@@ -36,9 +36,32 @@ body {
 		padding:10px;
 	
 	}
+
+	td {
+			padding: 5px
+	}
+	
+	table {
+		width: 100%;
+		
+		text-align: right;
+	}
+	
+	.leftAlign {
+		text-align: left;
+	}
+
+	.rightAlign {
+		text-align: right;
+	}
 	
 	h1.itemCard {
 		text-align: right;
+		color: yellow;
+		margin: 10 5;
+	}
+
+	table.itemCard {
 		color: yellow;
 	}
 	
