@@ -1,4 +1,5 @@
-planets=[
+data={
+	"planets":[
       { 
          "name":"Bespin",
          "imgUrl":"https://cdnb.artstation.com/p/assets/covers/images/004/237/685/large/daniel-cambrand-danielcambrand-03.jpg",
@@ -191,4 +192,77 @@ planets=[
 		 "availability": "future-content",
 		 "alert": "alert.coming-soon"
       }
+   ],
+   "characters" : [
+   {"name":"Anakin Skywalker",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/anakin/hero/anakin-hero-lg.jpg"
+   },
+   {"name":"Boba Fett",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/boba-fett/hero-images/boba-fett-hero-lg.jpg"
+   },
+   {"name":"Bossk",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/bossk/hero/bossk-hero-lg.jpg"
+   },
+   {"name":"Captain Phasma",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/phasma/hero/phasma-hero-lg.jpg"
+   },
+   {"name":"Chewbacca",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/chewbacca/hero/chewie-hero-lg.jpg"
+   },
+   {"name":"Count Dooku",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/count-dooku/hero/dooku-hero-lg.jpg"
+   },
+   {"name":"Darth Maul",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/darth-maul/hero-images/darth-maul-hero-lg.jpg"
+   },
+   {"name":"Darth Vader",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/darth-vader/hero-images/darth-vader-hero-lg.jpg"
+   },
+   {"name":"Emperor Palpatine",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/emperor/hero/emporer-palpatine-hero-lg.jpg"
+   },
+   {"name":"Finn",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/finn/hero/finn-hero-lg.jpg"
+   },
+   {"name":"General Greivous",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/grievous/hero/grievous-hero-lg.jpg"
+   },
+   {"name":"Han Solo",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/han-solo/hero-images/han-solo-hero-lg.jpg"
+   },
+   {"name":"Iden Versio",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/iden/hero/iden-hero-lg.jpg"
+   },
+   {"name":"Kylo Ren",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/kylo-ren/hero/kylo-ren-hero-lg.jpg"
+   },
+   {"name":"Lando Calrissian",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/lando/hero/lando-hero-lg.jpg"
+   },
+   {"name":"Leia Organa",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/leia/hero/leia-hero-lg.jpg"
+   },
+   {"name":"Luke Skywalker",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/luke/hero/luke-skywalker-hero-lg.jpg"
+   },
+   {"name":"Obi-Wan Kenobi",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/obi-wan/hero/obi-wan-hero-lg.jpg"
+   },
+   {"name":"Rey",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/rey/hero-images/rey-hero-lg.jpg"
+   },
+   {"name":"Yoda",
+	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/yoda/hero-images/yoda-hero-lg.jpg"
+   },],
+   "vehicles" : [],
+   "starfighters" : [],
+   "weapons" : [],
+   "rumours" : [
+   {"name": "Ahsoka Tano",
+   "imgUrl":"https://thewookieegunner.files.wordpress.com/2019/08/star-wars-clone-wars-ahsoka-tano-trends-international-poster.png"},
+   {"name": "Padme Amidala",
+   "imgUrl":"http://getwallpapers.com/wallpaper/full/4/d/e/902609-popular-padme-amidala-wallpapers-1920x1080.jpg"},
+   {"name": "Asajj Ventress",
+   "imgUrl":"https://lumiere-a.akamaihd.net/v1/images/Asajj-Ventress_d5ca9413.jpeg?region=67%2C0%2C1067%2C600&width=960"}
    ]
+}

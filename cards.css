@@ -5,14 +5,61 @@ body {
   
   background-image: url(https://media.contentapi.ea.com/content/dam/walrus/en-us/common/newsletter-xl3.png.adapt.320w.png);
 	}
+	
+	/* Style the header */
+.header {
+  padding: 10px 16px;
+  background: #000000e0;
+  color: #f1f1f1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  /*background-image: url(https://s22380.pcdn.co/wp-content/uploads/Bob-Frank-R-Leporis-768x512.jpg);*/
+  border-bottom-style: solid;
+  border-color: #616161c2;
+  display: flex;
+  border-width: 2px;
+}
+.header > img {
+		height: 50px;
+		margin: 10px;
+}
+
+.header > h3 {
+		margin: 10px;
+		height: 50px;
+		font-size: 1.4em;
+		text-align: center;
+		width: 300;
+		
+}
+
+.navigationBar {
+	display: flex;
+	justify-content: center;
+	width:100%;
+}
+
+.float-right {
+	float: right;
+}
+
+.header > .spacer {
+	width: 100%;
+		height: 50px;
+		margin: 10px;
+}
+
+.page_container {
+  padding-top: 102px;
+}
+
 
 	img.itemCard {
 		
 		border-radius: 20px;
-		/*width: 288px;
-		height: 162px;*/
-		    width: -webkit-fill-available;
-		border-color: yellow;
+		width: -webkit-fill-available;
 		display: block;
 	}
 	
@@ -86,7 +133,15 @@ body {
 	}
 	
 	table.itemCard {
-		color: #9e9224;
+		color: #999;
+	}
+	
+	.horizontal-layout {
+		display: flex;
+	}
+	
+	h2.headerValue{
+		padding: 0 10;
 	}
 	
 	
@@ -94,6 +149,8 @@ body {
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: center;
+		
+  padding-top: 102px;
 	}
 	
    test {

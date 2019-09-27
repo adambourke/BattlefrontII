@@ -4,7 +4,7 @@ const e = React.createElement;
 const i18n = translations;
 
 
-
+var cardFlow = {};
 class Card extends React.Component {
   constructor(props) {
     super(props);
@@ -24,11 +24,7 @@ class Card extends React.Component {
   }
   
   renderTitle(className) {
-	 return e(
-      'h1',
-      {className:className},
-	  this.props.name
-    ); 
+	 return e('h1', {className:className},this.props.name); 
   }
   
   renderDetails() {
@@ -98,7 +94,7 @@ class Card extends React.Component {
   renderImage() {
 	 return e(
       'img',
-      {src:this.props.imgUrl, className:"itemCard hideOnHover"}
+      {src:this.props.imgUrl, className:"itemCard hideOnHover", key:(this.props.name + "-img")}
     ); 
   }
 
@@ -123,20 +119,71 @@ class CardFlow extends React.Component{
 	constructor(props) {
     super(props);
 	
-	this.state = {planets: planets};
-	console.log(this.state.planets);
+	this.state = {data: data.planets};
   }
+  
+  setSelection(selection){
+	  this.setState({data:data[field]});
+  }
+  
+  componentDidMount(){
+	cardFlow.updateSelection = (field) => {
+    // `this` refers to our react component
+    this.setState({data:data[field]});     
+  };
+}
+  
   
 	render(){
 		
 		let array = [];
-		for(let planet of this.state.planets){
-			planet.key = planet.name;
-			array.push(e(Card,planet));
+		for(let item of this.state.data){
+			item.key = item.name;
+			array.push(e(Card,item));
 		}
 		return array;
 	}
 }
 
-const domContainer = document.querySelector('#page_container');
+class NavigationBar extends React.Component {
+	constructor(props) {
+		super(props);
+				
+				
+		this.state = {fields: this.getFieldsFromObject(data)};
+		console.log(this.state.fields);
+  }
+  
+  getFieldsFromObject(obj){
+	let fields = [];
+	  if (obj){
+		for (var field in obj){
+			if (Object.prototype.hasOwnProperty.call(obj, field)) {
+				fields.push(field);
+			}
+		}
+	  }
+	  return fields;
+  }
+  
+  setSelection(field){
+	  cardFlow.updateSelection(field);
+  }
+  
+  render(){
+	  let headerElements = []
+	  
+	  for (let field in this.state.fields){
+		  headerElements.push(e('h2', {href:"null", key:field, className:"headerValue", onClick:function(){this.setSelection(this.state.fields[field])}.bind(this)}, this.state.fields[field]));
+		  headerElements.push(e('h2', {key:(field+"div")}, '|'));
+	  }
+	  headerElements.pop();
+	  return e('div', {className:"horizontal-layout"},headerElements);
+  }
+	
+}
+
+let domContainer = document.querySelector('#page_container');
 ReactDOM.render(e(CardFlow), domContainer);
+let domContainer2 = document.querySelector('.navigationBar');
+ReactDOM.render(e(NavigationBar), domContainer2);
