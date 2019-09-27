@@ -9,7 +9,7 @@ body {
 	/* Style the header */
 .header {
   padding: 10px 16px;
-  background: #000000e0;
+  /*background: #000000e0;*/
   color: #f1f1f1;
   position: fixed;
   top: 0;
@@ -39,6 +39,10 @@ body {
 	display: flex;
 	justify-content: center;
 	width:100%;
+}
+
+.headerValue:hover{
+   cursor: pointer;
 }
 
 .float-right {
