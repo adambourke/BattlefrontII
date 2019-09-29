@@ -494,16 +494,16 @@ data={
 	"imgUrl":"img/starfighter/interceptor/v-wing.jpg"
    },
    {"name":"TIE SA Bomber",
-	"imgUrl":"img/starfighter/Bomber/tie-sa-bomber.jpg"
+	"imgUrl":"img/starfighter/bomber/tie-sa-bomber.jpg"
    },
    {"name":"Hyena Class Bomber",
-	"imgUrl":"img/starfighter/Bomber/hyena-class-bomber.jpg"
+	"imgUrl":"img/starfighter/bomber/hyena-class-bomber.jpg"
    },
    {"name":"BTL-A4 Y-Wing",
-	"imgUrl":"img/starfighter/Bomber/btl-a4-y-wing.jpg"
+	"imgUrl":"img/starfighter/bomber/btl-a4-y-wing.jpg"
    },
    {"name":"BTL-B Y-Wing",
-	"imgUrl":"img/starfighter/Bomber/btl-b-y-wing.jpg"
+	"imgUrl":"img/starfighter/bomber/btl-b-y-wing.jpg"
    }],
    "weapons" : [],
    "rumours" : [
