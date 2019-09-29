@@ -253,9 +253,258 @@ data={
    },
    {"name":"Yoda",
 	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/yoda/hero-images/yoda-hero-lg.jpg"
-   },],
-   "vehicles" : [],
-   "starfighters" : [],
+   },
+   {"name":"ARC Trooper",
+	"imgUrl":"img/reinforcement/infiltrator/arc-trooper.jpg"
+   },
+   {"name":"Commando Droid",
+	"imgUrl":"img/reinforcement/infiltrator/commando-droid.jpg"
+   },
+   {"name":"Droideka",
+	"imgUrl":"img/reinforcement/enforcer/droideka.jpg"
+   },
+   {"name":"B2 Battle Droid",
+	"imgUrl":"img/reinforcement/enforcer/b2-battle-droid.jpg"
+   },
+   {"name":"Wookie Warrior",
+	"imgUrl":"img/reinforcement/enforcer/wookie-warrior.jpg"
+   },
+   {"name":"Death Trooper",
+	"imgUrl":"img/reinforcement/enforcer/death-trooper.jpg"
+   },
+   {"name":"FlameTrooper",
+	"imgUrl":"img/reinforcement/enforcer/flame-trooper.jpg"
+   },
+   {"name":"B2-RP Rocket Droid",
+	"imgUrl":"img/reinforcement/aerial/b2-rp.jpg"
+   },
+   {"name":"Jet Trooper",
+	"imgUrl":"img/reinforcement/aerial/jet-trooper.jpg"
+   },
+   {"name":"Rebel Rocket Jumper",
+	"imgUrl":"img/reinforcement/aerial/rebel-rocket-jumper.jpg"
+   },
+   {"name":"Imperial Rocket Trooper",
+	"imgUrl":"img/reinforcement/aerial/imperial-rocket-trooper.jpg"
+   },
+   {"name":"Resistance Rocket Jumper",
+	"imgUrl":"img/reinforcement/aerial/resistance-rocket-jumper.jpg"
+   },
+   {"name":"First Order Rocket Trooper",
+	"imgUrl":"img/reinforcement/aerial/first-order-rocket-trooper.jpg"
+   },
+   {"name":"Ewok",
+	"imgUrl":"https://starwarsblog.starwars.com/wp-content/uploads/2018/04/star-wars-battlefront-II-ewok-mode-tall.jpg"
+   },
+   {"name":"Clone Trooper",
+	"imgUrl":"img/trooper/assault/republic.jpg"
+   },
+   {"name":"Clone Heavy Trooper",
+	"imgUrl":"img/trooper/heavy/republic.jpg"
+   },
+   {"name":"Clone Officer",
+	"imgUrl":"img/trooper/officer/republic.jpg"
+   },
+   {"name":"Clone Specialist",
+	"imgUrl":"img/trooper/specialist/republic.jpg"
+   },
+   {"name":"B1 Battle Droid",
+	"imgUrl":"img/trooper/assault/separatist.jpg"
+   },
+   {"name":"B1 Heavy Battle Droid",
+	"imgUrl":"img/trooper/heavy/separatist.jpg"
+   },
+   {"name":"OOM Command Battle Droid",
+	"imgUrl":"img/trooper/officer/separatist.jpg"
+   },
+   {"name":"B1 Recon Droid",
+	"imgUrl":"img/trooper/specialist/separatist.jpg"
+   },
+   {"name":"Rebel Soldier",
+	"imgUrl":"img/trooper/assault/rebel.jpg"
+   },
+   {"name":"Rebel Heavy Soldier",
+	"imgUrl":"img/trooper/heavy/rebel.jpg"
+   },
+   {"name":"Rebel Officer",
+	"imgUrl":"img/trooper/officer/rebel.jpg"
+   },
+   {"name":"Rebel Sniper",
+	"imgUrl":"img/trooper/specialist/rebel.jpg"
+   },
+   {"name":"Stormtrooper",
+	"imgUrl":"img/trooper/assault/imperial.jpg"
+   },
+   {"name":"Heavy Stormtrooper",
+	"imgUrl":"img/trooper/heavy/imperial.jpg"
+   },
+   {"name":"Imperial Officer",
+	"imgUrl":"img/trooper/officer/imperial.jpg"
+   },
+   {"name":"Scout Trooper",
+	"imgUrl":"img/trooper/specialist/imperial.jpg"
+   },
+   {"name":"Resistance Soldier",
+	"imgUrl":"img/trooper/assault/resistance.jpg"
+   },
+   {"name":"Resistance Heavy Soldier",
+	"imgUrl":"img/trooper/heavy/resistance.jpg"
+   },
+   {"name":"Resistance Officer",
+	"imgUrl":"img/trooper/officer/resistance.jpg"
+   },
+   {"name":"Resistance Sniper",
+	"imgUrl":"img/trooper/specialist/resistance.jpg"
+   },
+   {"name":"First Order Stormtrooper",
+	"imgUrl":"img/trooper/assault/first-order.jpg"
+   },
+   {"name":"First Order Heavy Stormtrooper",
+	"imgUrl":"img/trooper/heavy/first-order.jpg"
+   },
+   {"name":"First Order Officer",
+	"imgUrl":"img/trooper/officer/first-order.jpg"
+   },
+   {"name":"First Order Specialist",
+	"imgUrl":"img/trooper/specialist/first-order.jpg"
+   }
+   ],
+   "vehicles" : [
+   {"name":"AT-ST",
+	"imgUrl":"img/vehicle/armor/at-st.jpg"
+   },
+   {"name":"First Order AT-ST",
+	"imgUrl":"img/vehicle/armor/fo-at-st.jpg"
+   },
+   {"name":"TX-130",
+	"imgUrl":"img/vehicle/armor/tx-130.jpg"
+   },
+   {"name":"AAT",
+	"imgUrl":"img/vehicle/armor/aat.jpg"
+   },
+   {"name":"AT-RT",
+	"imgUrl":"img/vehicle/armor/at-rt.jpg"
+   },
+   {"name":"Snowspeeder",
+	"imgUrl":"img/vehicle/speeder/snowspeeder.jpg"
+   },
+   {"name":"BARC Speeder",
+	"imgUrl":"img/vehicle/speeder/barc-speeder.jpg"
+   },
+   {"name":"LUUV",
+	"imgUrl":"img/vehicle/speeder/luuv.jpg"
+   },
+   {"name":"X-34 Landspeeder",
+	"imgUrl":"img/vehicle/speeder/x-34-landspeeder.jpg"
+   },
+   {"name":"Z4-7 Speeder Bike",
+	"imgUrl":"img/vehicle/speeder/z4-7-speeder-bike.jpg"
+   },
+   {"name":"V-4X-D Ski Speeder",
+	"imgUrl":"img/vehicle/speeder/v-4x-d-ski-speeder.jpg"
+   },
+   {"name":"STAP",
+	"imgUrl":"img/vehicle/speeder/stap.jpg"
+   },
+   {"name":"MTT",
+	"imgUrl":"img/vehicle/artillery/mtt.jpg"
+   },
+   {"name":"AT-AT",
+	"imgUrl":"img/vehicle/artillery/at-at.jpg"
+   },
+   {"name":"AT-TE",
+	"imgUrl":"img/vehicle/artillery/at-te.jpg"
+   },
+   {"name":"LAAT",
+	"imgUrl":"img/vehicle/artillery/laat.jpg"
+   },
+   {"name":"U Wing",
+	"imgUrl":"img/vehicle/artillery/u-wing.jpg"
+   }
+   
+   ],
+   "starfighters" : [
+   {"name":"Boba Fett (Slave I)",
+	"imgUrl":"img/hero-starfighter/boba-fett-slave-1.jpg"
+   },
+   {"name":"Darth Maul (Scimitar)",
+	"imgUrl":"img/hero-starfighter/darth-maul-scimitar.jpg"
+   },
+   {"name":"Darth Vader (TIE Advanced X1)",
+	"imgUrl":"img/hero-starfighter/darth-vader-tie-advanced-x1.jpg"
+   },
+   {"name":"Han & Chewbacca (Millenium Falcon)",
+	"imgUrl":"img/hero-starfighter/han-chewbacca-falcon.jpg"
+   },
+   {"name":"Iden Versio (TIE Fighter)",
+	"imgUrl":"img/hero-starfighter/iden-versio-tie-ln-fighter.jpg"
+   },
+   {"name":"Kylo Ren (TIE Silencer)",
+	"imgUrl":"img/hero-starfighter/kylo-ren-tie-silencer.jpg"
+   },
+   {"name":"Lando & L3-37 (Millenium Falcon)",
+	"imgUrl":"img/hero-starfighter/lando-l3-37-falcon.jpg"
+   },
+   {"name":"Luke Skywalker (T-65B X-Wing)",
+	"imgUrl":"img/hero-starfighter/luke-t-65bx-wing.jpg"
+   },
+   {"name":"Poe Dameron (T-70 X-Wing)",
+	"imgUrl":"img/hero-starfighter/poe-dameron-t-70-x-wing.jpg"
+   },
+   {"name":"Rey & Chewbacca (Millenium Falcon)",
+	"imgUrl":"img/hero-starfighter/rey-chewbacca-falcon.jpg"
+   },
+   {"name":"Tallie Lintra (RZ-2 A-Wing)",
+	"imgUrl":"img/hero-starfighter/tallie-lintra-rz-2-a-wing.jpg"
+   },
+   {"name":"Yoda (Actis Class Light Interceptor)",
+	"imgUrl":"img/hero-starfighter/yoda-actis-class-light-interceptor.jpg"
+   },
+   {"name":"ARC-170 Starfighter",
+	"imgUrl":"img/starfighter/fighter/arc-170-starfighter.jpg"
+   },
+   {"name":"N1 Naboo Starfighter",
+	"imgUrl":"img/starfighter/fighter/n1-naboo-starfighter.jpg"
+   },
+   {"name":"Vulture Droid",
+	"imgUrl":"img/starfighter/fighter/vulture.jpg"
+   },
+   {"name":"TIE Fighter ",
+	"imgUrl":"img/starfighter/fighter/tie-ln-fighter.jpg"
+   },
+   {"name":"X-Wing",
+	"imgUrl":"img/starfighter/fighter/x-wing.jpg"
+   },
+   {"name":"Droid Tri-Fighter",
+	"imgUrl":"img/starfighter/interceptor/droid-tri-fighter.jpg"
+   },
+   {"name":"R-Z1 A-Wing",
+	"imgUrl":"img/starfighter/interceptor/rz-1-a-wing.jpg"
+   },
+   {"name":"R-Z2 A-Wing",
+	"imgUrl":"img/starfighter/interceptor/r-z2-a-wing.jpg"
+   },
+   {"name":"TIE Interceptor",
+	"imgUrl":"img/starfighter/interceptor/tie-in-interceptor.jpg"
+   },
+   {"name":"TIE/SF",
+	"imgUrl":"img/starfighter/interceptor/tie-sf.jpg"
+   },
+   {"name":"V-Wing",
+	"imgUrl":"img/starfighter/interceptor/v-wing.jpg"
+   },
+   {"name":"TIE SA Bomber",
+	"imgUrl":"img/starfighter/Bomber/tie-sa-bomber.jpg"
+   },
+   {"name":"Hyena Class Bomber",
+	"imgUrl":"img/starfighter/Bomber/hyena-class-bomber.jpg"
+   },
+   {"name":"BTL-A4 Y-Wing",
+	"imgUrl":"img/starfighter/Bomber/btl-a4-y-wing.jpg"
+   },
+   {"name":"BTL-B Y-Wing",
+	"imgUrl":"img/starfighter/Bomber/btl-b-y-wing.jpg"
+   }],
    "weapons" : [],
    "rumours" : [
    {"name": "Ahsoka Tano",
