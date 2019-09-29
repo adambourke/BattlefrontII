@@ -20,7 +20,7 @@ data={
       },
       { 
          "name":"Death Star II",
-         "imgUrl":"http://getwallpapers.com/wallpaper/full/7/a/0/320881.jpg",
+         "imgUrl":"img/location/planet/death-star-ii.jpg",
          "summary": {
            "field.maps": 1,
            "field.online-modes": ["mode.blast", "mode.galactic-assault", "mode.hero-showdown", "mode.hvv", "mode.strike"],
