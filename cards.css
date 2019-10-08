@@ -149,6 +149,10 @@ body {
 		padding: 0 10;
 	}
 	
+	h2.selected{
+		color: #cec14e;
+	}
+	
 	
 	.layout {
 		display: flex;
