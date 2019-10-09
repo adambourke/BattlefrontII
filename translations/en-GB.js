@@ -5,7 +5,7 @@ translations={
 		"vehicles": "Vehicles",
 		"starfighters": "Starfighters",
 		"weapons": "Weapons",
-		"rumours": "Rumors",
+		"rumours": "Rumours",
 	},
 	"alert": {
 		"campaign-only": "This content is only available in the campaign",
