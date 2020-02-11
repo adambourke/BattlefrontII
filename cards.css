@@ -35,6 +35,10 @@ body {
 		
 }
 
+.navigationBarSpacer{
+  padding-top: 102px;	
+}
+
 .navigationBar {
 	display: flex;
 	justify-content: center;
@@ -137,6 +141,20 @@ body {
 		
 	}
 	
+	.cardFlowHeader {
+		display: inline;
+		width: 100%;
+	}
+	
+	.cardFlowHeader > h1 {
+		text-align: left;
+		color: #9e9224;
+	}
+	
+	.cardFlowHeader > hr {
+		border-color: #9e9224;
+	}
+	
 	table.itemCard {
 		color: #999;
 	}
@@ -154,12 +172,12 @@ body {
 	}
 	
 	
-	.layout {
+	.cardflow {
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: center;
+		margin-bottom: 40;
 		
-  padding-top: 102px;
 	}
 	
    test {

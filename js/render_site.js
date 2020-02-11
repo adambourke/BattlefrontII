@@ -1,6 +1,6 @@
 'use strict';
 import {NavigationBar} from "./navigation-bar.mjs";
-import {CardFlow} from "./card-flow.mjs";
+import {PageLayout} from "./page-layout.mjs";
 import {e} from "./react-utils.mjs";
 import {getFieldsFromObject} from "./utils.mjs";
 
@@ -19,7 +19,7 @@ let pagedata = data[path];
 
 //-------Render the page!-------//
 let domContainer = document.querySelector('#page_container');
-ReactDOM.render(e(CardFlow, {data:pagedata}), domContainer);
+ReactDOM.render(e(PageLayout, {data:pagedata}), domContainer);
 
 let domContainer2 = document.querySelector('.navigationBar');
 ReactDOM.render(e(NavigationBar, {fields, selectedField:path}), domContainer2);
