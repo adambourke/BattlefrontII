@@ -1,5 +1,15 @@
 data={
 	"planets":[
+	
+      { 
+         "name":"Ajan Kloss",
+         "summary": {
+           "maps": 1,
+		   "imgUrl": "https://vignette.wikia.nocookie.net/battlefront/images/0/0a/Trospromo1.jpg/revision/latest",
+           "online-modes": ["mode/capital-supremacy", "mode/co-op"],
+           "offline-modes": []
+         }
+      },
       { 
          "name":"Bespin",
          "imgUrl":"https://cdnb.artstation.com/p/assets/covers/images/004/237/685/large/daniel-cambrand-danielcambrand-03.jpg",
@@ -109,6 +119,14 @@ data={
          }
       },
       { 
+         "name":"MC85 Star Cruiser",
+         "summary": {
+           "maps": 1,
+           "online-modes": ["mode/capital-supremacy"],
+           "offline-modes": []
+         }
+      },
+      { 
          "name":"Naboo",
          "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/7/79/Naboo_Theed_-_Royal_Palace_%281%29_-_Mikael_Andersson_DICE.jpg",
          "summary": {
@@ -124,10 +142,22 @@ data={
 		 "alert": "campaign-only"
       },
       { 
+         "name":"Resurgent-Class Star Destroyer",
+         "summary": {
+           "maps": 1,
+           "online-modes": ["mode/capital-supremacy"],
+           "offline-modes": []
+         }
+      },
+      { 
          "name":"Scarif",
          "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/8/83/LandingPad13LoadingScreen.png/revision/latest?cb=20170725131013",
-		 "availability": "unavailable",
-		 "alert": "campaign-only"
+		 "availability": "future-content",
+         "summary": {
+           "maps": 2,
+           "online-modes": ["mode/capital-supremacy", "mode/co-op"],
+           "offline-modes": ["mode/campaign","mode/instant-action"]
+         }
       },
       { 
          "name":"Starkiller Base",
@@ -185,193 +215,209 @@ data={
            "online-modes": ["mode/blast","mode/galactic-assault", "mode/hero-showdown", "mode/hvv", "mode/strike"],
            "offline-modes": ["mode/battle-scenarios", "mode/onslaught","mode/team-battle", "mode/duel"]
          }
-      },
-      { 
-         "name":"Unknown Planet",
-         "imgUrl":"https://miro.medium.com/max/3840/1*G5I00UNHN3XJF_zEYAxSsA.png",
-		 "availability": "future-content",
-		 "alert": "coming-soon"
       }
    ],
-   "characters" : [
-   {"name":"Anakin Skywalker",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/anakin/hero/anakin-hero-lg.jpg"
-   },
-   {"name":"Boba Fett",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/boba-fett/hero-images/boba-fett-hero-lg.jpg"
-   },
-   {"name":"Bossk",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/bossk/hero/bossk-hero-lg.jpg"
-   },
-   {"name":"Captain Phasma",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/phasma/hero/phasma-hero-lg.jpg"
-   },
-   {"name":"Chewbacca",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/chewbacca/hero/chewie-hero-lg.jpg"
-   },
-   {"name":"Count Dooku",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/count-dooku/hero/dooku-hero-lg.jpg"
-   },
-   {"name":"Darth Maul",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/darth-maul/hero-images/darth-maul-hero-lg.jpg"
-   },
-   {"name":"Darth Vader",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/darth-vader/hero-images/darth-vader-hero-lg.jpg"
-   },
-   {"name":"Emperor Palpatine",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/emperor/hero/emporer-palpatine-hero-lg.jpg"
-   },
-   {"name":"Finn",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/finn/hero/finn-hero-lg.jpg"
-   },
-   {"name":"General Greivous",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/grievous/hero/grievous-hero-lg.jpg"
-   },
-   {"name":"Han Solo",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/han-solo/hero-images/han-solo-hero-lg.jpg"
-   },
-   {"name":"Iden Versio",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/iden/hero/iden-hero-lg.jpg"
-   },
-   {"name":"Kylo Ren",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/kylo-ren/hero/kylo-ren-hero-lg.jpg"
-   },
-   {"name":"Lando Calrissian",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/lando/hero/lando-hero-lg.jpg"
-   },
-   {"name":"Leia Organa",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/leia/hero/leia-hero-lg.jpg"
-   },
-   {"name":"Luke Skywalker",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/luke/hero/luke-skywalker-hero-lg.jpg"
-   },
-   {"name":"Obi-Wan Kenobi",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/obi-wan/hero/obi-wan-hero-lg.jpg"
-   },
-   {"name":"Rey",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/rey/hero-images/rey-hero-lg.jpg"
-   },
-   {"name":"Yoda",
-	"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/yoda/hero-images/yoda-hero-lg.jpg"
-   },
-   {"name":"ARC Trooper",
-	"imgUrl":"img/reinforcement/infiltrator/arc-trooper.jpg"
-   },
-   {"name":"Commando Droid",
-	"imgUrl":"img/reinforcement/infiltrator/commando-droid.jpg"
-   },
-   {"name":"Clone Commando",
-	"imgUrl":"img/reinforcement/enforcer/clone-commando.jpg"
-   },
-   {"name":"Droideka",
-	"imgUrl":"img/reinforcement/enforcer/droideka.jpg"
-   },
-   {"name":"B2 Battle Droid",
-	"imgUrl":"img/reinforcement/enforcer/b2-battle-droid.jpg"
-   },
-   {"name":"Wookie Warrior",
-	"imgUrl":"img/reinforcement/enforcer/wookie-warrior.jpg"
-   },
-   {"name":"Death Trooper",
-	"imgUrl":"img/reinforcement/enforcer/death-trooper.jpg"
-   },
-   {"name":"FlameTrooper",
-	"imgUrl":"img/reinforcement/enforcer/flame-trooper.jpg"
-   },
-   {"name":"B2-RP Rocket Droid",
-	"imgUrl":"img/reinforcement/aerial/b2-rp.jpg"
-   },
-   {"name":"Jet Trooper",
-	"imgUrl":"img/reinforcement/aerial/jet-trooper.jpg"
-   },
-   {"name":"Rebel Rocket Jumper",
-	"imgUrl":"img/reinforcement/aerial/rebel-rocket-jumper.jpg"
-   },
-   {"name":"Imperial Rocket Trooper",
-	"imgUrl":"img/reinforcement/aerial/imperial-rocket-trooper.jpg"
-   },
-   {"name":"Resistance Rocket Jumper",
-	"imgUrl":"img/reinforcement/aerial/resistance-rocket-jumper.jpg"
-   },
-   {"name":"First Order Rocket Trooper",
-	"imgUrl":"img/reinforcement/aerial/first-order-rocket-trooper.jpg"
-   },
-   {"name":"Ewok",
-	"imgUrl":"https://starwarsblog.starwars.com/wp-content/uploads/2018/04/star-wars-battlefront-II-ewok-mode-tall.jpg"
-   },
-   {"name":"Clone Trooper",
-	"imgUrl":"img/trooper/assault/republic.jpg"
-   },
-   {"name":"Clone Heavy Trooper",
-	"imgUrl":"img/trooper/heavy/republic.jpg"
-   },
-   {"name":"Clone Officer",
-	"imgUrl":"img/trooper/officer/republic.jpg"
-   },
-   {"name":"Clone Specialist",
-	"imgUrl":"img/trooper/specialist/republic.jpg"
-   },
-   {"name":"B1 Battle Droid",
-	"imgUrl":"img/trooper/assault/separatist.jpg"
-   },
-   {"name":"B1 Heavy Battle Droid",
-	"imgUrl":"img/trooper/heavy/separatist.jpg"
-   },
-   {"name":"OOM Command Battle Droid",
-	"imgUrl":"img/trooper/officer/separatist.jpg"
-   },
-   {"name":"B1 Recon Droid",
-	"imgUrl":"img/trooper/specialist/separatist.jpg"
-   },
-   {"name":"Rebel Soldier",
-	"imgUrl":"img/trooper/assault/rebel.jpg"
-   },
-   {"name":"Rebel Heavy Soldier",
-	"imgUrl":"img/trooper/heavy/rebel.jpg"
-   },
-   {"name":"Rebel Officer",
-	"imgUrl":"img/trooper/officer/rebel.jpg"
-   },
-   {"name":"Rebel Sniper",
-	"imgUrl":"img/trooper/specialist/rebel.jpg"
-   },
-   {"name":"Stormtrooper",
-	"imgUrl":"img/trooper/assault/imperial.jpg"
-   },
-   {"name":"Heavy Stormtrooper",
-	"imgUrl":"img/trooper/heavy/imperial.jpg"
-   },
-   {"name":"Imperial Officer",
-	"imgUrl":"img/trooper/officer/imperial.jpg"
-   },
-   {"name":"Scout Trooper",
-	"imgUrl":"img/trooper/specialist/imperial.jpg"
-   },
-   {"name":"Resistance Soldier",
-	"imgUrl":"img/trooper/assault/resistance.jpg"
-   },
-   {"name":"Resistance Heavy Soldier",
-	"imgUrl":"img/trooper/heavy/resistance.jpg"
-   },
-   {"name":"Resistance Officer",
-	"imgUrl":"img/trooper/officer/resistance.jpg"
-   },
-   {"name":"Resistance Sniper",
-	"imgUrl":"img/trooper/specialist/resistance.jpg"
-   },
-   {"name":"First Order Stormtrooper",
-	"imgUrl":"img/trooper/assault/first-order.jpg"
-   },
-   {"name":"First Order Heavy Stormtrooper",
-	"imgUrl":"img/trooper/heavy/first-order.jpg"
-   },
-   {"name":"First Order Officer",
-	"imgUrl":"img/trooper/officer/first-order.jpg"
-   },
-   {"name":"First Order Specialist",
-	"imgUrl":"img/trooper/specialist/first-order.jpg"
-   }
-   ],
+   "characters" : {
+		"hero": [
+		   {"name":"Anakin Skywalker",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/anakin/hero/anakin-hero-lg.jpg"
+		   },
+		   {"name":"BB-8",
+			"imgUrl":"img/hero/bb-8.jpg"
+		   },
+		   {"name":"BB-9E",
+			"imgUrl":"img/hero/bb-9e.jpg"
+		   },
+		   {"name":"Boba Fett",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/boba-fett/hero-images/boba-fett-hero-lg.jpg"
+		   },
+		   {"name":"Bossk",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/bossk/hero/bossk-hero-lg.jpg"
+		   },
+		   {"name":"Captain Phasma",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/phasma/hero/phasma-hero-lg.jpg"
+		   },
+		   {"name":"Chewbacca",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/chewbacca/hero/chewie-hero-lg.jpg"
+		   },
+		   {"name":"Count Dooku",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/count-dooku/hero/dooku-hero-lg.jpg"
+		   },
+		   {"name":"Darth Maul",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/darth-maul/hero-images/darth-maul-hero-lg.jpg"
+		   },
+		   {"name":"Darth Vader",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/darth-vader/hero-images/darth-vader-hero-lg.jpg"
+		   },
+		   {"name":"Emperor Palpatine",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/emperor/hero/emporer-palpatine-hero-lg.jpg"
+		   },
+		   {"name":"Finn",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/finn/hero/finn-hero-lg.jpg"
+		   },
+		   {"name":"General Greivous",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/grievous/hero/grievous-hero-lg.jpg"
+		   },
+		   {"name":"Han Solo",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/han-solo/hero-images/han-solo-hero-lg.jpg"
+		   },
+		   {"name":"Iden Versio",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/iden/hero/iden-hero-lg.jpg"
+		   },
+		   {"name":"Kylo Ren",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/kylo-ren/hero/kylo-ren-hero-lg.jpg"
+		   },
+		   {"name":"Lando Calrissian",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/lando/hero/lando-hero-lg.jpg"
+		   },
+		   {"name":"Leia Organa",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/leia/hero/leia-hero-lg.jpg"
+		   },
+		   {"name":"Luke Skywalker",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/luke/hero/luke-skywalker-hero-lg.jpg"
+		   },
+		   {"name":"Obi-Wan Kenobi",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/obi-wan/hero/obi-wan-hero-lg.jpg"
+		   },
+		   {"name":"Rey",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/rey/hero-images/rey-hero-lg.jpg"
+		   },
+		   {"name":"Yoda",
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/yoda/hero-images/yoda-hero-lg.jpg"
+		   }
+		],
+		"reinforcement": [
+		   {"name":"ARC Trooper",
+			"imgUrl":"img/reinforcement/infiltrator/arc-trooper.jpg"
+		   },
+		   {"name":"Commando Droid",
+			"imgUrl":"img/reinforcement/infiltrator/commando-droid.jpg"
+		   },
+		   {"name":"Caphex Spy",
+			"imgUrl":"img/reinforcement/infiltrator/caphex-spy.png"
+		   },
+		   {"name":"Sith Trooper",
+			"imgUrl":"img/reinforcement/enforcer/sith-trooper.jpg"
+		   },
+		   {"name":"Clone Commando",
+			"imgUrl":"img/reinforcement/enforcer/clone-commando.jpg"
+		   },
+		   {"name":"Droideka",
+			"imgUrl":"img/reinforcement/enforcer/droideka.jpg"
+		   },
+		   {"name":"B2 Battle Droid",
+			"imgUrl":"img/reinforcement/enforcer/b2-battle-droid.jpg"
+		   },
+		   {"name":"Wookie Warrior",
+			"imgUrl":"img/reinforcement/enforcer/wookie-warrior.jpg"
+		   },
+		   {"name":"Death Trooper",
+			"imgUrl":"img/reinforcement/enforcer/death-trooper.jpg"
+		   },
+		   {"name":"Ovissian Gunner",
+			"imgUrl":"img/reinforcement/enforcer/death-trooper.jpg"
+		   },
+		   {"name":"FlameTrooper",
+			"imgUrl":"img/reinforcement/enforcer/flame-trooper.jpg"
+		   },
+		   {"name":"B2-RP Rocket Droid",
+			"imgUrl":"img/reinforcement/aerial/b2-rp.jpg"
+		   },
+		   {"name":"Jet Trooper",
+			"imgUrl":"img/reinforcement/aerial/jet-trooper.jpg"
+		   },
+		   {"name":"Rebel Rocket Jumper",
+			"imgUrl":"img/reinforcement/aerial/rebel-rocket-jumper.jpg"
+		   },
+		   {"name":"Imperial Rocket Trooper",
+			"imgUrl":"img/reinforcement/aerial/imperial-rocket-trooper.jpg"
+		   },
+		   {"name":"Resistance Rocket Jumper",
+			"imgUrl":"img/reinforcement/aerial/resistance-rocket-jumper.jpg"
+		   },
+		   {"name":"First Order Jet Trooper",
+			"imgUrl":"img/reinforcement/aerial/first-order-jet-trooper.png"
+		   },
+		   {"name":"Ewok",
+			"imgUrl":"https://starwarsblog.starwars.com/wp-content/uploads/2018/04/star-wars-battlefront-II-ewok-mode-tall.jpg"
+		   }
+		],
+		"trooper": [
+		   {"name":"Clone Trooper",
+			"imgUrl":"img/trooper/assault/republic.jpg"
+		   },
+		   {"name":"Clone Heavy Trooper",
+			"imgUrl":"img/trooper/heavy/republic.jpg"
+		   },
+		   {"name":"Clone Officer",
+			"imgUrl":"img/trooper/officer/republic.jpg"
+		   },
+		   {"name":"Clone Specialist",
+			"imgUrl":"img/trooper/specialist/republic.jpg"
+		   },
+		   {"name":"B1 Battle Droid",
+			"imgUrl":"img/trooper/assault/separatist.jpg"
+		   },
+		   {"name":"B1 Heavy Battle Droid",
+			"imgUrl":"img/trooper/heavy/separatist.jpg"
+		   },
+		   {"name":"OOM Command Battle Droid",
+			"imgUrl":"img/trooper/officer/separatist.jpg"
+		   },
+		   {"name":"B1 Recon Droid",
+			"imgUrl":"img/trooper/specialist/separatist.jpg"
+		   },
+		   {"name":"Rebel Soldier",
+			"imgUrl":"img/trooper/assault/rebel.jpg"
+		   },
+		   {"name":"Rebel Heavy Soldier",
+			"imgUrl":"img/trooper/heavy/rebel.jpg"
+		   },
+		   {"name":"Rebel Officer",
+			"imgUrl":"img/trooper/officer/rebel.jpg"
+		   },
+		   {"name":"Rebel Sniper",
+			"imgUrl":"img/trooper/specialist/rebel.jpg"
+		   },
+		   {"name":"Stormtrooper",
+			"imgUrl":"img/trooper/assault/imperial.jpg"
+		   },
+		   {"name":"Heavy Stormtrooper",
+			"imgUrl":"img/trooper/heavy/imperial.jpg"
+		   },
+		   {"name":"Imperial Officer",
+			"imgUrl":"img/trooper/officer/imperial.jpg"
+		   },
+		   {"name":"Scout Trooper",
+			"imgUrl":"img/trooper/specialist/imperial.jpg"
+		   },
+		   {"name":"Resistance Soldier",
+			"imgUrl":"img/trooper/assault/resistance.jpg"
+		   },
+		   {"name":"Resistance Heavy Soldier",
+			"imgUrl":"img/trooper/heavy/resistance.jpg"
+		   },
+		   {"name":"Resistance Officer",
+			"imgUrl":"img/trooper/officer/resistance.jpg"
+		   },
+		   {"name":"Resistance Sniper",
+			"imgUrl":"img/trooper/specialist/resistance.jpg"
+		   },
+		   {"name":"First Order Stormtrooper",
+			"imgUrl":"img/trooper/assault/first-order.jpg"
+		   },
+		   {"name":"First Order Heavy Stormtrooper",
+			"imgUrl":"img/trooper/heavy/first-order.jpg"
+		   },
+		   {"name":"First Order Officer",
+			"imgUrl":"img/trooper/officer/first-order.jpg"
+		   },
+		   {"name":"First Order Specialist",
+			"imgUrl":"img/trooper/specialist/first-order.jpg"
+		   }
+		],
+	},
+   
    "vehicles" : [
    {"name":"AT-ST",
 	"imgUrl":"img/vehicle/armor/at-st.jpg"
