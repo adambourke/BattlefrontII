@@ -3,9 +3,9 @@ data={
 	
       { 
          "name":"Ajan Kloss",
+		 "imgUrl": "https://vignette.wikia.nocookie.net/battlefront/images/0/0a/Trospromo1.jpg/revision/latest",
          "summary": {
            "maps": 1,
-		   "imgUrl": "https://vignette.wikia.nocookie.net/battlefront/images/0/0a/Trospromo1.jpg/revision/latest",
            "online-modes": ["mode/capital-supremacy", "mode/co-op"],
            "offline-modes": []
          }
