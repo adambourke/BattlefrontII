@@ -152,7 +152,6 @@ data={
       { 
          "name":"Scarif",
          "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/8/83/LandingPad13LoadingScreen.png/revision/latest?cb=20170725131013",
-		 "availability": "future-content",
          "summary": {
            "maps": 2,
            "online-modes": ["mode/capital-supremacy", "mode/co-op"],
