@@ -980,6 +980,7 @@ data={
       "assault-weapon":[ 
          { 
             "name":"DC-15A",
+			"imgUrl": "img/weapon/assault-weapon/dc-15a.png",
             "summary":{ 
                "factions":[ 
                   "faction/republic"
@@ -988,6 +989,7 @@ data={
          },
          { 
             "name":"E-5",
+			"imgUrl": "img/weapon/assault-weapon/e-5.png",
             "summary":{ 
                "factions":[ 
                   "faction/separatists"
@@ -996,6 +998,7 @@ data={
          },
          { 
             "name":"A280C",
+			"imgUrl": "img/weapon/assault-weapon/a280c.png",
             "summary":{ 
                "factions":[ 
                   "faction/rebels"
@@ -1004,6 +1007,7 @@ data={
          },
          { 
             "name":"E-11",
+			"imgUrl": "img/weapon/assault-weapon/e-11.png",
             "summary":{ 
                "factions":[ 
                   "faction/empire"
@@ -1011,7 +1015,8 @@ data={
             }
          },
          { 
-            "name":"E-16",
+            "name":"EL-16",
+			"imgUrl": "img/weapon/assault-weapon/el-16.png",
             "summary":{ 
                "factions":[ 
                   "faction/resistance"
@@ -1020,6 +1025,7 @@ data={
          },
          { 
             "name":"F-11D",
+			"imgUrl": "img/weapon/assault-weapon/f-11d.png",
             "summary":{ 
                "factions":[ 
                   "faction/first-order"
@@ -1028,6 +1034,7 @@ data={
          },
          { 
             "name":"A280",
+			"imgUrl": "img/weapon/assault-weapon/a280.png",
             "summary":{ 
                "factions":[ 
                   "faction/republic",
@@ -1040,7 +1047,8 @@ data={
             }
          },
          { 
-            "name":"CR-2",
+            "name":"CR-2"
+			"imgUrl": "img/weapon/assault-weapon/cr-2.png",,
             "summary":{ 
                "factions":[ 
                   "faction/republic",
@@ -1054,6 +1062,7 @@ data={
          },
          { 
             "name":"EL-16HFE",
+			"imgUrl": "img/weapon/assault-weapon/el-16hfe.png",
             "summary":{ 
                "factions":[ 
                   "faction/republic",
