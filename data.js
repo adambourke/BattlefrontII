@@ -1190,7 +1190,7 @@ data={
             }
          },
          { 
-            "name":"DC-17",
+            "name":"RK-3",
             "summary":{ 
                "factions":[ 
                   "faction/empire"
