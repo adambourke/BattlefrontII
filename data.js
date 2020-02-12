@@ -693,6 +693,8 @@ data={
          { 
             "name":"Ewok",
             "imgUrl":"https://starwarsblog.starwars.com/wp-content/uploads/2018/04/star-wars-battlefront-II-ewok-mode-tall.jpg"
+			 "availability":"unavailable",
+			 "alert":"ewok-hunt-only"
          }
       ],
       "trooper":[ 
@@ -1358,15 +1360,41 @@ data={
       { 
          "name":"Ahsoka Tano",
             "imgUrl":"img/rumour/hero/ahsoka-tano.png",
+			"summary": {
+				"rumours.leaks": "Some_Info",
+				"rumors.datamines": "Referenced in voicelines"
+			}
       },
       { 
          "name":"Padme Amidala",
             "imgUrl":"img/rumour/hero/padme-amidala.jpg",
+			"summary": {
+				"rumors.datamines": "Referenced in voicelines"
+			}
       },
       { 
          "name":"Asajj Ventress",
             "imgUrl":"img/rumour/hero/asajj-ventress.jpg",
+			"summary": {
+				"rumours.leaks": "Some_Info"
+			}
       }
-   ]
+   ],
+		"reinforcement": [
+			{"name": "ISB Officer",
+			"imgUrl": "",
+			"summary": {
+				"rumors.datamines": "Text Reference, Possible Animations"
+			}
+			},
+			
+         { 
+            "name":"Ewok",
+            "imgUrl":"https://starwarsblog.starwars.com/wp-content/uploads/2018/04/star-wars-battlefront-II-ewok-mode-tall.jpg",
+			"summary": {
+				"rumors.datamines": "New Animations, 'Ewok Bow' Weapon"
+			}
+         }
+			
    }
 }

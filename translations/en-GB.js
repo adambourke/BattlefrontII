@@ -9,6 +9,7 @@ translations={
 	},
 	"alert": {
 		"campaign-only": "This content is only available in the campaign",
+		"ewok-hunt-only": "This content is only available in Ewok Hunt",
 		"coming-soon": "Coming Soon..."
 	},
 	"faction": {
@@ -24,6 +25,10 @@ translations={
 		"maps": "Maps",
 		"online-modes": "Online Modes",
 		"offline-modes": "Offline Modes",
+		"rumours": {
+			"leaks": "Leaks",
+			"datamines": "Datamines"
+		}
 	},
 	"header": {
 		"assault-weapon": "Assault Weapons",
