@@ -245,7 +245,7 @@ data={
 		   {"name":"Bossk",
 			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/bossk/hero/bossk-hero-lg.jpg",
 			 "summary": {
-			   "factions": ["faction/seperatists", "faction/empire"]
+			   "factions": ["faction/separatists", "faction/empire"]
 			 }
 		   },
 		   {"name":"Captain Phasma",
@@ -257,19 +257,19 @@ data={
 		   {"name":"Chewbacca",
 			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/chewbacca/hero/chewie-hero-lg.jpg",
 			 "summary": {
-			   "factions": ["faction/rebellion", "faction/republic"]
+			   "factions": ["faction/rebels", "faction/republic"]
 			 }
 		   },
 		   {"name":"Count Dooku",
 			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/count-dooku/hero/dooku-hero-lg.jpg",
 			 "summary": {
-			   "factions": ["faction/seperatists"]
+			   "factions": ["faction/separatists"]
 			 }
 		   },
 		   {"name":"Darth Maul",
 			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/darth-maul/hero-images/darth-maul-hero-lg.jpg",
 			 "summary": {
-			   "factions": ["faction/seperatists"]
+			   "factions": ["faction/separatists"]
 			 }
 		   },
 		   {"name":"Darth Vader",
@@ -293,13 +293,13 @@ data={
 		   {"name":"General Greivous",
 			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/grievous/hero/grievous-hero-lg.jpg",
 			 "summary": {
-			   "factions": ["faction/seperatists"]
+			   "factions": ["faction/separatists"]
 			 }
 		   },
 		   {"name":"Han Solo",
 			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/han-solo/hero-images/han-solo-hero-lg.jpg",
 			 "summary": {
-			   "factions": ["faction/rebellion"]
+			   "factions": ["faction/rebels"]
 			 }
 		   },
 		   {"name":"Iden Versio",
@@ -317,19 +317,19 @@ data={
 		   {"name":"Lando Calrissian",
 			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/lando/hero/lando-hero-lg.jpg",
 			 "summary": {
-			   "factions": ["faction/rebellion"]
+			   "factions": ["faction/rebels"]
 			 }
 		   },
 		   {"name":"Leia Organa",
 			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/leia/hero/leia-hero-lg.jpg",
 			 "summary": {
-			   "factions": ["faction/rebellion"]
+			   "factions": ["faction/rebels"]
 			 }
 		   },
 		   {"name":"Luke Skywalker",
 			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/luke/hero/luke-skywalker-hero-lg.jpg",
 			 "summary": {
-			   "factions": ["faction/rebellion"]
+			   "factions": ["faction/rebels"]
 			 }
 		   },
 		   {"name":"Obi-Wan Kenobi",
