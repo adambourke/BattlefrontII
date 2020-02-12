@@ -380,7 +380,7 @@ data={
 			"imgUrl":"img/reinforcement/enforcer/death-trooper.jpg"
 		   },
 		   {"name":"Ovissian Gunner",
-			"imgUrl":"img/reinforcement/enforcer/ovissian-gunner.jpg"
+			"imgUrl":"img/reinforcement/enforcer/ovissian-gunner.png"
 		   },
 		   {"name":"FlameTrooper",
 			"imgUrl":"img/reinforcement/enforcer/flame-trooper.jpg"
