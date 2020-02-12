@@ -49,7 +49,7 @@ data={
       },
       { 
          "name":"Death Star II",
-         "imgUrl":"img/location/planet/death-star-ii.jpg",
+         "imgUrl":"img/location/death-star-ii.jpg",
          "summary":{ 
             "maps":1,
             "online-modes":[ 
@@ -239,6 +239,7 @@ data={
       },
       { 
          "name":"MC85 Star Cruiser",
+            "imgUrl":"img/location/mc85-star-cruiser.jpg",
          "summary":{ 
             "maps":1,
             "online-modes":[ 
@@ -281,6 +282,7 @@ data={
       },
       { 
          "name":"Resurgent-Class Star Destroyer",
+            "imgUrl":"img/location/resurgent-class-star-destroyer.jpg",
          "summary":{ 
             "maps":1,
             "online-modes":[ 
@@ -293,7 +295,7 @@ data={
       },
       { 
          "name":"Scarif",
-         "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/8/83/LandingPad13LoadingScreen.png/revision/latest?cb=20170725131013",
+            "imgUrl":"img/location/scarif.png",
          "summary":{ 
             "maps":2,
             "online-modes":[ 
@@ -1351,18 +1353,20 @@ data={
       "hero-weapon":[ 
       ]
    },
-   "rumours":[ 
+   "rumours":{
+	   "hero": [ 
       { 
          "name":"Ahsoka Tano",
-         "imgUrl":"https://thewookieegunner.files.wordpress.com/2019/08/star-wars-clone-wars-ahsoka-tano-trends-international-poster.png"
+            "imgUrl":"img/rumour/hero/ahsoka-tano.png",
       },
       { 
          "name":"Padme Amidala",
-         "imgUrl":"http://getwallpapers.com/wallpaper/full/4/d/e/902609-popular-padme-amidala-wallpapers-1920x1080.jpg"
+            "imgUrl":"img/rumour/hero/padme-amidala.png",
       },
       { 
          "name":"Asajj Ventress",
-         "imgUrl":"https://lumiere-a.akamaihd.net/v1/images/Asajj-Ventress_d5ca9413.jpeg?region=67%2C0%2C1067%2C600&width=960"
+            "imgUrl":"img/rumour/hero/asajj-ventress.png",
       }
    ]
+   }
 }
