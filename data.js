@@ -1047,7 +1047,7 @@ data={
             }
          },
          { 
-            "name":"CR-2"
+            "name":"CR-2",
 			"imgUrl": "img/weapon/assault-weapon/cr-2.png",,
             "summary":{ 
                "factions":[ 
