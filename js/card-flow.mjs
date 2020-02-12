@@ -1,5 +1,6 @@
 import {Card} from "./card.mjs";
 import {e, Header} from "./react-utils.mjs";
+import {translate} from "./utils.mjs";
 
 export class CardFlow extends React.Component{
 	
@@ -25,10 +26,13 @@ export class CardFlowHeader extends React.Component {
 	}
 	
 	render(){
-		
+		if (this.props.field) {
 		return e("div", {className:"cardFlowHeader"},
-				[Header({value: this.props.field}),
+				[Header({value: translate("header/" + this.props.field)}),
 				e("hr")]
 			);
+		} else {
+			return null;
+		}
 	}
 }

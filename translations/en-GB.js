@@ -16,11 +16,16 @@ translations={
 		"online-modes": "Online Modes",
 		"offline-modes": "Offline Modes",
 	},
+	"header": {
+		"hero": "Heroes",
+		"reinforcement": "Reinforcements",
+		"trooper": "Troopers"
+	},
 	"mode": {
 		"hvv": "Heroes Vs Villains",
 		"campaign": "Campaign",
 		"galactic-assault": "Galactic Assault",
-		"capital-supremacy": "Capital Supremacy",
+		"capital-supremacy": "Supremacy",
 		"co-op": "Co-op",
 		"hero-showdown": "Hero Showdown",
 		"ewok-hunt": "Ewok Hunt",

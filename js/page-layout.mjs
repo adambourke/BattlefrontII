@@ -16,7 +16,6 @@ export class PageLayout extends React.Component{
 			let content = [];
 			let fields = getFieldsFromObject(this.props.data);
 			for(const field of  fields){
-				content.push(Header({value: field, className:"cardFlowHeader"}));
 				content.push(e(CardFlow, {field: field, data:this.props.data[field]}));
 			}
 			return e("div", this.props, content);
