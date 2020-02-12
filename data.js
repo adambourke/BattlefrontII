@@ -990,7 +990,7 @@ data={
             "name":"E-5",
             "summary":{ 
                "factions":[ 
-                  "faction/separatist"
+                  "faction/separatists"
                ]
             }
          },
@@ -1079,7 +1079,7 @@ data={
             "name":"E-5C",
             "summary":{ 
                "factions":[ 
-                  "faction/separatist"
+                  "faction/separatists"
                ]
             }
          },
@@ -1168,7 +1168,7 @@ data={
             "name":"RG-4D",
             "summary":{ 
                "factions":[ 
-                  "faction/separatist"
+                  "faction/separatists"
                ]
             }
          },
@@ -1257,7 +1257,7 @@ data={
             "name":"E-5S",
             "summary":{ 
                "factions":[ 
-                  "faction/separatist"
+                  "faction/separatists"
                ]
             }
          },
@@ -1336,8 +1336,10 @@ data={
       "reinforcement-weapon":[ 
 
       ],
-      "hero-weapon":[ 
+      "starcard-weapon":[ 
 
+      ],
+      "hero-weapon":[ 
       ]
    },
    "rumours":[ 

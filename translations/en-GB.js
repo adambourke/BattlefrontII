@@ -26,9 +26,16 @@ translations={
 		"offline-modes": "Offline Modes",
 	},
 	"header": {
+		"assault-weapon": "Assault Weapons",
+		"heavy-weapon": "Heavy Weapons",
 		"hero": "Heroes",
 		"hero-starfighter": "Hero Starfighters",
+		"hero-weapon": "Hero Weapons",
+		"officer-weapon": "Officer Weapons",
 		"reinforcement": "Reinforcements",
+		"reinforcement-weapon": "Reinforcement Weapons",
+		"specialist-weapon": "Specialist Weapons",
+		"starcard-weapon": "Starcard Weapons",
 		"starfighter": "Starfighters",
 		"trooper": "Troopers"
 	},
