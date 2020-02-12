@@ -34,6 +34,7 @@ translations={
 		"duel": "Duel"
 	},
 	"planets": {
+		"ajan-kloss": "Ajan Kloss",
 		"bespin": "Bespin",
 		"crait": "Crait",
 		"death-star-ii": "Death Star II",

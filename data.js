@@ -296,7 +296,7 @@ data={
 			"imgUrl":"img/reinforcement/infiltrator/caphex-spy.png"
 		   },
 		   {"name":"Sith Trooper",
-			"imgUrl":"img/reinforcement/enforcer/sith-trooper.jpg"
+			"imgUrl":"img/reinforcement/infiltrator/sith-trooper.jpg"
 		   },
 		   {"name":"Clone Commando",
 			"imgUrl":"img/reinforcement/enforcer/clone-commando.jpg"

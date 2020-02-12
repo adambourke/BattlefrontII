@@ -10,7 +10,7 @@ export class CardFlow extends React.Component{
 	render(){
 		
 		let array = [];
-		array.push(e(CardFlowHeader,null));
+		array.push(e(CardFlowHeader,this.props));
 		for(let item of this.props.data){
 			item.key = item.name;
 			array.push(e(Card,item));
@@ -27,7 +27,7 @@ export class CardFlowHeader extends React.Component {
 	render(){
 		
 		return e("div", {className:"cardFlowHeader"},
-				[Header({value: "Test"}),
+				[Header({value: this.props.field}),
 				e("hr")]
 			);
 	}
