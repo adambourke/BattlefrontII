@@ -219,70 +219,136 @@ data={
    "characters" : {
 		"hero": [
 		   {"name":"Anakin Skywalker",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/anakin/hero/anakin-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/anakin/hero/anakin-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/republic"]
+			 }
 		   },
 		   {"name":"BB-8",
-			"imgUrl":"img/hero/bb-8.jpg"
+			"imgUrl":"img/hero/bb-8.jpg",
+			 "summary": {
+			   "factions": ["faction/resistance"]
+			 }
 		   },
 		   {"name":"BB-9E",
-			"imgUrl":"img/hero/bb-9e.jpg"
+			"imgUrl":"img/hero/bb-9e.jpg",
+			 "summary": {
+			   "factions": ["faction/first-order"]
+			 }
 		   },
 		   {"name":"Boba Fett",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/boba-fett/hero-images/boba-fett-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/boba-fett/hero-images/boba-fett-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/empire"]
+			 }
 		   },
 		   {"name":"Bossk",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/bossk/hero/bossk-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/bossk/hero/bossk-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/seperatists", "faction/empire"]
+			 }
 		   },
 		   {"name":"Captain Phasma",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/phasma/hero/phasma-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/phasma/hero/phasma-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/first-order"]
+			 }
 		   },
 		   {"name":"Chewbacca",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/chewbacca/hero/chewie-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/chewbacca/hero/chewie-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/rebellion", "faction/republic"]
+			 }
 		   },
 		   {"name":"Count Dooku",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/count-dooku/hero/dooku-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/count-dooku/hero/dooku-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/seperatists"]
+			 }
 		   },
 		   {"name":"Darth Maul",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/darth-maul/hero-images/darth-maul-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/darth-maul/hero-images/darth-maul-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/seperatists"]
+			 }
 		   },
 		   {"name":"Darth Vader",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/darth-vader/hero-images/darth-vader-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/darth-vader/hero-images/darth-vader-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/empire"]
+			 }
 		   },
 		   {"name":"Emperor Palpatine",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/emperor/hero/emporer-palpatine-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/emperor/hero/emporer-palpatine-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/empire"]
+			 }
 		   },
 		   {"name":"Finn",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/finn/hero/finn-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/finn/hero/finn-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/resistance"]
+			 }
 		   },
 		   {"name":"General Greivous",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/grievous/hero/grievous-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/grievous/hero/grievous-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/seperatists"]
+			 }
 		   },
 		   {"name":"Han Solo",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/han-solo/hero-images/han-solo-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/han-solo/hero-images/han-solo-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/rebellion"]
+			 }
 		   },
 		   {"name":"Iden Versio",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/iden/hero/iden-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/iden/hero/iden-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/empire"]
+			 }
 		   },
 		   {"name":"Kylo Ren",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/kylo-ren/hero/kylo-ren-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/kylo-ren/hero/kylo-ren-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/first-order"]
+			 }
 		   },
 		   {"name":"Lando Calrissian",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/lando/hero/lando-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/lando/hero/lando-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/rebellion"]
+			 }
 		   },
 		   {"name":"Leia Organa",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/leia/hero/leia-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/leia/hero/leia-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/rebellion"]
+			 }
 		   },
 		   {"name":"Luke Skywalker",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/luke/hero/luke-skywalker-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/luke/hero/luke-skywalker-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/rebellion"]
+			 }
 		   },
 		   {"name":"Obi-Wan Kenobi",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/obi-wan/hero/obi-wan-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/obi-wan/hero/obi-wan-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/republic"]
+			 }
 		   },
 		   {"name":"Rey",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/rey/hero-images/rey-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/rey/hero-images/rey-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/resistance"]
+			 }
 		   },
 		   {"name":"Yoda",
-			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/yoda/hero-images/yoda-hero-lg.jpg"
+			"imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/yoda/hero-images/yoda-hero-lg.jpg",
+			 "summary": {
+			   "factions": ["faction/republic"]
+			 }
 		   }
 		],
 		"reinforcement": [
@@ -314,7 +380,7 @@ data={
 			"imgUrl":"img/reinforcement/enforcer/death-trooper.jpg"
 		   },
 		   {"name":"Ovissian Gunner",
-			"imgUrl":"img/reinforcement/enforcer/death-trooper.jpg"
+			"imgUrl":"img/reinforcement/enforcer/ovissian-gunner.jpg"
 		   },
 		   {"name":"FlameTrooper",
 			"imgUrl":"img/reinforcement/enforcer/flame-trooper.jpg"
@@ -471,88 +537,93 @@ data={
    }
    
    ],
-   "starfighters" : [
-   {"name":"Boba Fett (Slave I)",
-	"imgUrl":"img/hero-starfighter/boba-fett-slave-1.jpg"
+   "starfighters" : {
+	   "hero-starfighter": [
+		   {"name":"Boba Fett (Slave I)",
+			"imgUrl":"img/hero-starfighter/boba-fett-slave-1.jpg"
+		   },
+		   {"name":"Darth Maul (Scimitar)",
+			"imgUrl":"img/hero-starfighter/darth-maul-scimitar.jpg"
+		   },
+		   {"name":"Darth Vader (TIE Advanced X1)",
+			"imgUrl":"img/hero-starfighter/darth-vader-tie-advanced-x1.jpg"
+		   },
+		   {"name":"Han & Chewbacca (Millenium Falcon)",
+			"imgUrl":"img/hero-starfighter/han-chewbacca-falcon.jpg"
+		   },
+		   {"name":"Iden Versio (TIE Fighter)",
+			"imgUrl":"img/hero-starfighter/iden-versio-tie-ln-fighter.jpg"
+		   },
+		   {"name":"Kylo Ren (TIE Silencer)",
+			"imgUrl":"img/hero-starfighter/kylo-ren-tie-silencer.jpg"
+		   },
+		   {"name":"Lando & L3-37 (Millenium Falcon)",
+			"imgUrl":"img/hero-starfighter/lando-l3-37-falcon.jpg"
+		   },
+		   {"name":"Luke Skywalker (T-65B X-Wing)",
+			"imgUrl":"img/hero-starfighter/luke-t-65bx-wing.jpg"
+		   },
+		   {"name":"Poe Dameron (T-70 X-Wing)",
+			"imgUrl":"img/hero-starfighter/poe-dameron-t-70-x-wing.jpg"
+		   },
+		   {"name":"Rey & Chewbacca (Millenium Falcon)",
+			"imgUrl":"img/hero-starfighter/rey-chewbacca-falcon.jpg"
+		   },
+		   {"name":"Tallie Lintra (RZ-2 A-Wing)",
+			"imgUrl":"img/hero-starfighter/tallie-lintra-rz-2-a-wing.jpg"
+		   },
+		   {"name":"Yoda (Actis Class Light Interceptor)",
+			"imgUrl":"img/hero-starfighter/yoda-actis-class-light-interceptor.jpg"
+		   }
+		],
+		"starfighter": [
+		   {"name":"ARC-170 Starfighter",
+			"imgUrl":"img/starfighter/fighter/arc-170-starfighter.jpg"
+		   },
+		   {"name":"N1 Naboo Starfighter",
+			"imgUrl":"img/starfighter/fighter/n1-naboo-starfighter.jpg"
+		   },
+		   {"name":"Vulture Droid",
+			"imgUrl":"img/starfighter/fighter/vulture.jpg"
+		   },
+		   {"name":"TIE Fighter ",
+			"imgUrl":"img/starfighter/fighter/tie-ln-fighter.jpg"
+		   },
+		   {"name":"X-Wing",
+			"imgUrl":"img/starfighter/fighter/x-wing.jpg"
+		   },
+		   {"name":"Droid Tri-Fighter",
+			"imgUrl":"img/starfighter/interceptor/droid-tri-fighter.jpg"
+		   },
+		   {"name":"R-Z1 A-Wing",
+			"imgUrl":"img/starfighter/interceptor/rz-1-a-wing.jpg"
+		   },
+		   {"name":"R-Z2 A-Wing",
+			"imgUrl":"img/starfighter/interceptor/r-z2-a-wing.jpg"
+		   },
+		   {"name":"TIE Interceptor",
+			"imgUrl":"img/starfighter/interceptor/tie-in-interceptor.jpg"
+		   },
+		   {"name":"TIE/SF",
+			"imgUrl":"img/starfighter/interceptor/tie-sf.jpg"
+		   },
+		   {"name":"V-Wing",
+			"imgUrl":"img/starfighter/interceptor/v-wing.jpg"
+		   },
+		   {"name":"TIE SA Bomber",
+			"imgUrl":"img/starfighter/bomber/tie-sa-bomber.jpg"
+		   },
+		   {"name":"Hyena Class Bomber",
+			"imgUrl":"img/starfighter/bomber/hyena-class-bomber.jpg"
+		   },
+		   {"name":"BTL-A4 Y-Wing",
+			"imgUrl":"img/starfighter/bomber/btl-a4-y-wing.jpg"
+		   },
+		   {"name":"BTL-B Y-Wing",
+			"imgUrl":"img/starfighter/bomber/btl-b-y-wing.jpg"
+		   }
+		]
    },
-   {"name":"Darth Maul (Scimitar)",
-	"imgUrl":"img/hero-starfighter/darth-maul-scimitar.jpg"
-   },
-   {"name":"Darth Vader (TIE Advanced X1)",
-	"imgUrl":"img/hero-starfighter/darth-vader-tie-advanced-x1.jpg"
-   },
-   {"name":"Han & Chewbacca (Millenium Falcon)",
-	"imgUrl":"img/hero-starfighter/han-chewbacca-falcon.jpg"
-   },
-   {"name":"Iden Versio (TIE Fighter)",
-	"imgUrl":"img/hero-starfighter/iden-versio-tie-ln-fighter.jpg"
-   },
-   {"name":"Kylo Ren (TIE Silencer)",
-	"imgUrl":"img/hero-starfighter/kylo-ren-tie-silencer.jpg"
-   },
-   {"name":"Lando & L3-37 (Millenium Falcon)",
-	"imgUrl":"img/hero-starfighter/lando-l3-37-falcon.jpg"
-   },
-   {"name":"Luke Skywalker (T-65B X-Wing)",
-	"imgUrl":"img/hero-starfighter/luke-t-65bx-wing.jpg"
-   },
-   {"name":"Poe Dameron (T-70 X-Wing)",
-	"imgUrl":"img/hero-starfighter/poe-dameron-t-70-x-wing.jpg"
-   },
-   {"name":"Rey & Chewbacca (Millenium Falcon)",
-	"imgUrl":"img/hero-starfighter/rey-chewbacca-falcon.jpg"
-   },
-   {"name":"Tallie Lintra (RZ-2 A-Wing)",
-	"imgUrl":"img/hero-starfighter/tallie-lintra-rz-2-a-wing.jpg"
-   },
-   {"name":"Yoda (Actis Class Light Interceptor)",
-	"imgUrl":"img/hero-starfighter/yoda-actis-class-light-interceptor.jpg"
-   },
-   {"name":"ARC-170 Starfighter",
-	"imgUrl":"img/starfighter/fighter/arc-170-starfighter.jpg"
-   },
-   {"name":"N1 Naboo Starfighter",
-	"imgUrl":"img/starfighter/fighter/n1-naboo-starfighter.jpg"
-   },
-   {"name":"Vulture Droid",
-	"imgUrl":"img/starfighter/fighter/vulture.jpg"
-   },
-   {"name":"TIE Fighter ",
-	"imgUrl":"img/starfighter/fighter/tie-ln-fighter.jpg"
-   },
-   {"name":"X-Wing",
-	"imgUrl":"img/starfighter/fighter/x-wing.jpg"
-   },
-   {"name":"Droid Tri-Fighter",
-	"imgUrl":"img/starfighter/interceptor/droid-tri-fighter.jpg"
-   },
-   {"name":"R-Z1 A-Wing",
-	"imgUrl":"img/starfighter/interceptor/rz-1-a-wing.jpg"
-   },
-   {"name":"R-Z2 A-Wing",
-	"imgUrl":"img/starfighter/interceptor/r-z2-a-wing.jpg"
-   },
-   {"name":"TIE Interceptor",
-	"imgUrl":"img/starfighter/interceptor/tie-in-interceptor.jpg"
-   },
-   {"name":"TIE/SF",
-	"imgUrl":"img/starfighter/interceptor/tie-sf.jpg"
-   },
-   {"name":"V-Wing",
-	"imgUrl":"img/starfighter/interceptor/v-wing.jpg"
-   },
-   {"name":"TIE SA Bomber",
-	"imgUrl":"img/starfighter/bomber/tie-sa-bomber.jpg"
-   },
-   {"name":"Hyena Class Bomber",
-	"imgUrl":"img/starfighter/bomber/hyena-class-bomber.jpg"
-   },
-   {"name":"BTL-A4 Y-Wing",
-	"imgUrl":"img/starfighter/bomber/btl-a4-y-wing.jpg"
-   },
-   {"name":"BTL-B Y-Wing",
-	"imgUrl":"img/starfighter/bomber/btl-b-y-wing.jpg"
-   }],
    "weapons" : [],
    "rumours" : [
    {"name": "Ahsoka Tano",

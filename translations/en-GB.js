@@ -11,14 +11,25 @@ translations={
 		"campaign-only": "This content is only available in the campaign",
 		"coming-soon": "Coming Soon..."
 	},
+	"faction": {
+		"empire": "Galactic Empire",
+		"first-order": "First Order",
+		"rebels": "Rebel Alliance",
+		"republic": "Galactic Republic",
+		"resistance": "Resistance",
+		"separatists": "Seperatists"
+	},
 	"field": {
+		"factions": "Factions",
 		"maps": "Maps",
 		"online-modes": "Online Modes",
 		"offline-modes": "Offline Modes",
 	},
 	"header": {
 		"hero": "Heroes",
+		"hero-starfighter": "Hero Starfighters",
 		"reinforcement": "Reinforcements",
+		"starfighter": "Starfighters",
 		"trooper": "Troopers"
 	},
 	"mode": {
