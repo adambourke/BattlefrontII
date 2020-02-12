@@ -17,7 +17,7 @@ translations={
 		"rebels": "Rebel Alliance",
 		"republic": "Galactic Republic",
 		"resistance": "Resistance",
-		"separatists": "Seperatists"
+		"separatists": "Separatists"
 	},
 	"field": {
 		"factions": "Factions",
