@@ -1361,11 +1361,11 @@ data={
       },
       { 
          "name":"Padme Amidala",
-            "imgUrl":"img/rumour/hero/padme-amidala.png",
+            "imgUrl":"img/rumour/hero/padme-amidala.jpg",
       },
       { 
          "name":"Asajj Ventress",
-            "imgUrl":"img/rumour/hero/asajj-ventress.png",
+            "imgUrl":"img/rumour/hero/asajj-ventress.jpg",
       }
    ]
    }
