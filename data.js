@@ -1048,7 +1048,7 @@ data={
          },
          { 
             "name":"CR-2",
-			"imgUrl": "img/weapon/assault-weapon/cr-2.png",,
+			"imgUrl": "img/weapon/assault-weapon/cr-2.png",
             "summary":{ 
                "factions":[ 
                   "faction/republic",
