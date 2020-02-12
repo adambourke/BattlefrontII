@@ -624,7 +624,172 @@ data={
 		   }
 		]
    },
-   "weapons" : [],
+   "weapons" : {
+	   "assault-weapon": [
+			
+			{"name": "DC-15A",
+			 "summary": {
+				"factions": ["faction/republic"]
+			},
+			{"name": "E-5",
+			 "summary": {
+				"factions": ["faction/separatist"]
+			},
+			{"name": "A280C",
+			 "summary": {
+				"factions": ["faction/rebels"]
+			},
+			{"name": "E-11",
+			 "summary": {
+				"factions": ["faction/empire"]
+			},
+			{"name": "E-16",
+			 "summary": {
+				"factions": ["faction/resistance"]
+			},
+			{"name": "F-11D",
+			 "summary": {
+				"factions": ["faction/first-order"]
+			},
+			 
+			 
+			{"name": "A280",
+			 "summary": {
+				"factions": ["faction/republic", "faction/separatists", "faction/rebels", "faction/empire", "faction/resistance", "faction/first-order"]
+			},
+			{"name": "CR-2",
+			 "summary": {
+				"factions": ["faction/republic", "faction/separatists", "faction/rebels", "faction/empire", "faction/resistance", "faction/first-order"]
+			},
+			{"name": "EL-16HFE",
+			 "summary": {
+				"factions": ["faction/republic", "faction/separatists", "faction/rebels", "faction/empire", "faction/resistance", "faction/first-order"]
+			}
+		],
+	   "heavy-weapon": [
+			{"name": "DC-15",
+			 "summary": {
+				"factions": ["faction/republic"]
+			},
+			{"name": "E-5C",
+			 "summary": {
+				"factions": ["faction/separatist"]
+			},
+			{"name": "RT-97C",
+			 "summary": {
+				"factions": ["faction/rebels"]
+			},
+			{"name": "DLT-19",
+			 "summary": {
+				"factions": ["faction/empire"]
+			},
+			{"name": "M-45",
+			 "summary": {
+				"factions": ["faction/resistance"]
+			},
+			{"name": "FWMB-10",
+			 "summary": {
+				"factions": ["faction/first-order"]
+			},
+			 
+			 
+			{"name": "DC-15LE",
+			 "summary": {
+				"factions": ["faction/republic", "faction/separatists", "faction/rebels", "faction/empire", "faction/resistance", "faction/first-order"]
+			},
+			{"name": "FWMB10",
+			 "summary": {
+				"factions": ["faction/republic", "faction/separatists", "faction/rebels", "faction/empire", "faction/resistance", "faction/first-order"]
+			},
+			{"name": "TL-50 Heavy Repeater",
+			 "summary": {
+				"factions": ["faction/republic", "faction/separatists", "faction/rebels", "faction/empire", "faction/resistance", "faction/first-order"]
+			}
+		],
+	   "officer-weapon": [
+			{"name": "DC-17",
+			 "summary": {
+				"factions": ["faction/republic"]
+			},
+			{"name": "RG-4D",
+			 "summary": {
+				"factions": ["faction/separatist"]
+			},
+			{"name": "DH-17",
+			 "summary": {
+				"factions": ["faction/rebels"]
+			},
+			{"name": "DC-17",
+			 "summary": {
+				"factions": ["faction/empire"]
+			},
+			{"name": "GLIE-44",
+			 "summary": {
+				"factions": ["faction/resistance"]
+			},
+			{"name": "SE-44",
+			 "summary": {
+				"factions": ["faction/first-order"]
+			},
+			 
+			 
+			{"name": "Blurrg-1120",
+			 "summary": {
+				"factions": ["faction/republic", "faction/separatists", "faction/rebels", "faction/empire", "faction/resistance", "faction/first-order"]
+			},
+			{"name": "S-5",
+			 "summary": {
+				"factions": ["faction/republic", "faction/separatists", "faction/rebels", "faction/empire", "faction/resistance", "faction/first-order"]
+			},
+			{"name": "SE-44C",
+			 "summary": {
+				"factions": ["faction/republic", "faction/separatists", "faction/rebels", "faction/empire", "faction/resistance", "faction/first-order"]
+			}
+		],
+	   "specialist-weapon": [
+			
+			{"name": "Valken-38X",
+			 "summary": {
+				"factions": ["faction/republic"]
+			},
+			{"name": "E-5S",
+			 "summary": {
+				"factions": ["faction/separatist"]
+			},
+			{"name": "DLT-20A",
+			 "summary": {
+				"factions": ["faction/rebels"]
+			},
+			{"name": "DLT-19X",
+			 "summary": {
+				"factions": ["faction/empire"]
+			},
+			{"name": "A180-Sniper",
+			 "summary": {
+				"factions": ["faction/resistance"]
+			},
+			{"name": "DLT-19D",
+			 "summary": {
+				"factions": ["faction/first-order"]
+			},
+			 
+			 
+			{"name": "A280-CFE",
+			 "summary": {
+				"factions": ["faction/republic", "faction/separatists", "faction/rebels", "faction/empire", "faction/resistance", "faction/first-order"]
+			},
+			{"name": "IQA-11",
+			 "summary": {
+				"factions": ["faction/republic", "faction/separatists", "faction/rebels", "faction/empire", "faction/resistance", "faction/first-order"]
+			},
+			{"name": "NT-242",
+			 "summary": {
+				"factions": ["faction/republic", "faction/separatists", "faction/rebels", "faction/empire", "faction/resistance", "faction/first-order"]
+			}
+		],
+	   "reinforcement-weapon": [],
+	   "hero-weapon": []
+   },
    "rumours" : [
    {"name": "Ahsoka Tano",
    "imgUrl":"https://thewookieegunner.files.wordpress.com/2019/08/star-wars-clone-wars-ahsoka-tano-trends-international-poster.png"},
