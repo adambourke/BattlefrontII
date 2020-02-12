@@ -1,6 +1,6 @@
 translations={
 	"navigation": {
-		"planets": "Planets",
+		"locations": "Locations",
 		"characters": "Characters",
 		"vehicles": "Vehicles",
 		"starfighters": "Starfighters",

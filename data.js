@@ -1,5 +1,5 @@
 data={
-	"planets":[
+	"locations":[
 	
       { 
          "name":"Ajan Kloss",
