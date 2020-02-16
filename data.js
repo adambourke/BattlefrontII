@@ -1,5 +1,6 @@
 data={ 
-    "locations":[ 
+    "locations":{
+		"ground" :[ 
         { 
             "name":"Ajan Kloss",
             "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/0/0a/Trospromo1.jpg/revision/latest",
@@ -418,6 +419,9 @@ data={
             }
         }
     ],
+	"space" : [],
+"campaign": []	
+	},
     "characters":{ 
         "hero":[ 
             { 
