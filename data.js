@@ -415,7 +415,7 @@ data={
                     "mode/campaign",
                     "mode/instant-action"
                 ]
-            }
+            }.
 			"availability": "future-content",
 			"alert": "coming-soon"
         },
@@ -587,6 +587,7 @@ data={
         "hero":[ 
             { 
                 "name":"Anakin Skywalker",
+				"subheader": "Jedi Knight",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/anakin/hero/anakin-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -596,6 +597,7 @@ data={
             },
             { 
                 "name":"BB-8",
+				"subheader": "Astromech",
                 "imgUrl":"img/hero/bb-8.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -605,6 +607,7 @@ data={
             },
             { 
                 "name":"BB-9E",
+				"subheader": "Astromech",
                 "imgUrl":"img/hero/bb-9e.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -614,6 +617,7 @@ data={
             },
             { 
                 "name":"Boba Fett",
+				"subheader": "Bounty Hunter",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/boba-fett/hero-images/boba-fett-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -623,6 +627,7 @@ data={
             },
             { 
                 "name":"Bossk",
+				"subheader": "Bounty Hunter",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/bossk/hero/bossk-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -633,6 +638,7 @@ data={
             },
             { 
                 "name":"Captain Phasma",
+				"subheader": "Stormtrooper",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/phasma/hero/phasma-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -642,6 +648,7 @@ data={
             },
             { 
                 "name":"Chewbacca",
+				"subheader": "Rebel Hero",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/chewbacca/hero/chewie-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -652,6 +659,7 @@ data={
             },
             { 
                 "name":"Count Dooku",
+				"subheader": "Sith Lord",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/count-dooku/hero/dooku-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -661,6 +669,7 @@ data={
             },
             { 
                 "name":"Darth Maul",
+				"subheader": "Sith Lord",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/darth-maul/hero-images/darth-maul-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -670,6 +679,7 @@ data={
             },
             { 
                 "name":"Darth Vader",
+				"subheader": "Sith Lord",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/darth-vader/hero-images/darth-vader-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -679,6 +689,7 @@ data={
             },
             { 
                 "name":"Emperor Palpatine",
+				"subheader": "Sith Lord",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/emperor/hero/emporer-palpatine-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -688,6 +699,7 @@ data={
             },
             { 
                 "name":"Finn",
+				"subheader": "Resistance Hero",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/finn/hero/finn-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -697,6 +709,7 @@ data={
             },
             { 
                 "name":"General Greivous",
+				"subheader": "Jedi Hunter",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/grievous/hero/grievous-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -706,6 +719,7 @@ data={
             },
             { 
                 "name":"Han Solo",
+				"subheader": "Scoundrel",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/han-solo/hero-images/han-solo-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -715,6 +729,7 @@ data={
             },
             { 
                 "name":"Iden Versio",
+				"subheader": "Special Forces",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/iden/hero/iden-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -724,6 +739,7 @@ data={
             },
             { 
                 "name":"Kylo Ren",
+				"subheader": "Supreme Leader",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/kylo-ren/hero/kylo-ren-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -733,6 +749,7 @@ data={
             },
             { 
                 "name":"Lando Calrissian",
+				"subheader": "Entrepreneur",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/lando/hero/lando-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -742,6 +759,7 @@ data={
             },
             { 
                 "name":"Leia Organa",
+				"subheader": "Princess",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/leia/hero/leia-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -751,6 +769,7 @@ data={
             },
             { 
                 "name":"Luke Skywalker",
+				"subheader": "Jedi Knight",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/luke/hero/luke-skywalker-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -760,6 +779,7 @@ data={
             },
             { 
                 "name":"Obi-Wan Kenobi",
+				"subheader": "Jedi Knight",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/obi-wan/hero/obi-wan-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -769,6 +789,7 @@ data={
             },
             { 
                 "name":"Rey",
+				"subheader": "Jedi Knight",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/rey/hero-images/rey-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -778,6 +799,7 @@ data={
             },
             { 
                 "name":"Yoda",
+				"subheader": "Jedi Knight",
                 "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/yoda/hero-images/yoda-hero-lg.jpg",
                 "summary":{ 
                     "factions":[ 
@@ -789,62 +811,77 @@ data={
         "reinforcement":[ 
             { 
                 "name":"ARC Trooper",
+				"subheader": "Infiltrator",
                 "imgUrl":"img/reinforcement/infiltrator/arc-trooper.jpg"
             },
             { 
                 "name":"Commando Droid",
+				"subheader": "Infiltrator",
                 "imgUrl":"img/reinforcement/infiltrator/commando-droid.jpg"
             },
             { 
                 "name":"Caphex Spy",
+				"subheader": "Infiltrator",
                 "imgUrl":"img/reinforcement/infiltrator/caphex-spy.png"
             },
             { 
                 "name":"Sith Trooper",
+				"subheader": "Infiltrator",
                 "imgUrl":"img/reinforcement/infiltrator/sith-trooper.jpg"
             },
             { 
                 "name":"Clone Commando",
+				"subheader": "Enforcer",
                 "imgUrl":"img/reinforcement/enforcer/clone-commando.jpg"
             },
             { 
                 "name":"Droideka",
+				"subheader": "Enforcer",
                 "imgUrl":"img/reinforcement/enforcer/droideka.jpg"
             },
             { 
                 "name":"B2 Battle Droid",
+				"subheader": "Enforcer",
                 "imgUrl":"img/reinforcement/enforcer/b2-battle-droid.jpg"
             },
             { 
                 "name":"Wookie Warrior",
+				"subheader": "Enforcer",
                 "imgUrl":"img/reinforcement/enforcer/wookie-warrior.jpg"
             },
             { 
                 "name":"Death Trooper",
+				"subheader": "Enforcer",
                 "imgUrl":"img/reinforcement/enforcer/death-trooper.jpg"
             },
             { 
                 "name":"Ovissian Gunner",
+				"subheader": "Enforcer",
                 "imgUrl":"img/reinforcement/enforcer/ovissian-gunner.png"
             },
             { 
                 "name":"FlameTrooper",
+				"subheader": "Enforcer",
                 "imgUrl":"img/reinforcement/enforcer/flame-trooper.jpg"
             },
             { 
                 "name":"B2-RP Rocket Droid",
+				"subheader": "Aerial",
                 "imgUrl":"img/reinforcement/aerial/b2-rp.jpg"
             },
             { 
                 "name":"Jet Trooper",
+				"subheader": "Aerial",
                 "imgUrl":"img/reinforcement/aerial/jet-trooper.jpg"
             },
             { 
                 "name":"Rebel Rocket Jumper",
+				"subheader": "Aerial",
                 "imgUrl":"img/reinforcement/aerial/rebel-rocket-jumper.jpg"
             },
             { 
                 "name":"Imperial Rocket Trooper",
+				"subheader": "Aerial",
                 "imgUrl":"img/reinforcement/aerial/imperial-rocket-trooper.jpg"
             },
             { 
@@ -853,6 +890,7 @@ data={
             },
             { 
                 "name":"First Order Jet Trooper",
+				"subheader": "Aerial",
                 "imgUrl":"img/reinforcement/aerial/first-order-jet-trooper.png"
             },
             { 
