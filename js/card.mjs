@@ -1,5 +1,5 @@
 import {translate} from "./utils.mjs";
-import {e, Header, SubHeader, Image} from "./react-utils.mjs";
+import {e, Header, Subheader, Image} from "./react-utils.mjs";
 
 export class Card extends React.Component {
   constructor(props) {
