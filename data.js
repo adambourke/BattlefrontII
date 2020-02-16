@@ -781,7 +781,7 @@ data=
          },
          {
             "name":"Obi-Wan Kenobi",
-            "subheader":"Jedi Knight",
+            "subheader":"Jedi Master",
             "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/obi-wan/hero/obi-wan-hero-lg.jpg",
             "summary":{
                "factions":[
@@ -801,7 +801,7 @@ data=
          },
          {
             "name":"Yoda",
-            "subheader":"Jedi Knight",
+            "subheader":"Jedi Master",
             "imgUrl":"https://media.contentapi.ea.com/content/dam/ea/walrus/characters/yoda/hero-images/yoda-hero-lg.jpg",
             "summary":{
                "factions":[
@@ -1076,113 +1076,140 @@ data=
    "starfighters":{
       "hero-starfighter":[
          {
-            "name":"Boba Fett (Slave I)",
+            "name":"Boba Fett",
+            "subheader":"Slave I",
             "imgUrl":"img/hero-starfighter/boba-fett-slave-1.jpg"
          },
          {
-            "name":"Darth Maul (Scimitar)",
+            "name":"Darth Maul",
+            "subheader":"Scimitar",
             "imgUrl":"img/hero-starfighter/darth-maul-scimitar.jpg"
          },
          {
-            "name":"Darth Vader (TIE Advanced X1)",
+            "name":"Darth Vader",
+            "subheader":"TIE Advanced X1",
             "imgUrl":"img/hero-starfighter/darth-vader-tie-advanced-x1.jpg"
          },
          {
-            "name":"Han & Chewbacca (Millenium Falcon)",
+            "name":"Han & Chewbacca",
+            "subheader":"Millenium Falcon",
             "imgUrl":"img/hero-starfighter/han-chewbacca-falcon.jpg"
          },
          {
-            "name":"Iden Versio (TIE Fighter)",
+            "name":"Iden Versio",
+            "subheader":"TIE Fighter",
             "imgUrl":"img/hero-starfighter/iden-versio-tie-ln-fighter.jpg"
          },
          {
-            "name":"Kylo Ren (TIE Silencer)",
+            "name":"Kylo Ren",
+            "subheader":"TIE Silencer",
             "imgUrl":"img/hero-starfighter/kylo-ren-tie-silencer.jpg"
          },
          {
-            "name":"Lando & L3-37 (Millenium Falcon)",
+            "name":"Lando & L3-37",
+            "subheader":"Millenium Falcon",
             "imgUrl":"img/hero-starfighter/lando-l3-37-falcon.jpg"
          },
          {
-            "name":"Luke Skywalker (T-65B X-Wing)",
+            "name":"Luke Skywalker",
+            "subheader":"T-65B X-Wing",
             "imgUrl":"img/hero-starfighter/luke-t-65bx-wing.jpg"
          },
          {
-            "name":"Poe Dameron (T-70 X-Wing)",
+            "name":"Poe Dameron",
+            "subheader":"T-70 X-Wing",
             "imgUrl":"img/hero-starfighter/poe-dameron-t-70-x-wing.jpg"
          },
          {
-            "name":"Rey & Chewbacca (Millenium Falcon)",
+            "name":"Rey & Chewbacca",
+            "subheader":"Millenium Falcon",
             "imgUrl":"img/hero-starfighter/rey-chewbacca-falcon.jpg"
          },
          {
-            "name":"Tallie Lintra (RZ-2 A-Wing)",
+            "name":"Tallie Lintra",
+            "subheader":"RZ-2 A-Wing",
             "imgUrl":"img/hero-starfighter/tallie-lintra-rz-2-a-wing.jpg"
          },
          {
-            "name":"Yoda (Actis Class Light Interceptor)",
+            "name":"Yoda",
+            "subheader":"Actis Class Light Interceptor",
             "imgUrl":"img/hero-starfighter/yoda-actis-class-light-interceptor.jpg"
          }
       ],
       "starfighter":[
          {
             "name":"ARC-170 Starfighter",
+            "subheader":"Fighter",
             "imgUrl":"img/starfighter/fighter/arc-170-starfighter.jpg"
          },
          {
             "name":"N1 Naboo Starfighter",
+            "subheader":"Fighter",
             "imgUrl":"img/starfighter/fighter/n1-naboo-starfighter.jpg"
          },
          {
             "name":"Vulture Droid",
+            "subheader":"Fighter",
             "imgUrl":"img/starfighter/fighter/vulture.jpg"
          },
          {
             "name":"TIE Fighter ",
+            "subheader":"Fighter",
             "imgUrl":"img/starfighter/fighter/tie-ln-fighter.jpg"
          },
          {
             "name":"X-Wing",
+            "subheader":"Fighter",
             "imgUrl":"img/starfighter/fighter/x-wing.jpg"
          },
          {
             "name":"Droid Tri-Fighter",
+            "subheader":"Interceptor",
             "imgUrl":"img/starfighter/interceptor/droid-tri-fighter.jpg"
          },
          {
             "name":"R-Z1 A-Wing",
+            "subheader":"Interceptor",
             "imgUrl":"img/starfighter/interceptor/rz-1-a-wing.jpg"
          },
          {
             "name":"R-Z2 A-Wing",
+            "subheader":"Interceptor",
             "imgUrl":"img/starfighter/interceptor/r-z2-a-wing.jpg"
          },
          {
             "name":"TIE Interceptor",
+            "subheader":"Interceptor",
             "imgUrl":"img/starfighter/interceptor/tie-in-interceptor.jpg"
          },
          {
             "name":"TIE/SF",
+            "subheader":"Interceptor",
             "imgUrl":"img/starfighter/interceptor/tie-sf.jpg"
          },
          {
             "name":"V-Wing",
+            "subheader":"Interceptor",
             "imgUrl":"img/starfighter/interceptor/v-wing.jpg"
          },
          {
             "name":"TIE SA Bomber",
+            "subheader":"Bomber",
             "imgUrl":"img/starfighter/bomber/tie-sa-bomber.jpg"
          },
          {
             "name":"Hyena Class Bomber",
+            "subheader":"Bomber",
             "imgUrl":"img/starfighter/bomber/hyena-class-bomber.jpg"
          },
          {
             "name":"BTL-A4 Y-Wing",
+            "subheader":"Bomber",
             "imgUrl":"img/starfighter/bomber/btl-a4-y-wing.jpg"
          },
          {
             "name":"BTL-B Y-Wing",
+            "subheader":"Bomber",
             "imgUrl":"img/starfighter/bomber/btl-b-y-wing.jpg"
          }
       ]
@@ -1567,6 +1594,7 @@ data=
       "hero":[
          {
             "name":"Ahsoka Tano",
+            "subheader":"Jedi Padawan",
             "imgUrl":"img/rumour/hero/ahsoka-tano.png",
             "summary":{
                "rumours/leaks":"Some_Info",
@@ -1575,6 +1603,7 @@ data=
          },
          {
             "name":"Padme Amidala",
+            "subheader":"Senator",
             "imgUrl":"img/rumour/hero/padme-amidala.jpg",
             "summary":{
                "rumours/datamines":"Referenced in voicelines"
@@ -1582,6 +1611,7 @@ data=
          },
          {
             "name":"Asajj Ventress",
+            "subheader":"Nightsister",
             "imgUrl":"img/rumour/hero/asajj-ventress.jpg",
             "summary":{
                "rumours/leaks":"Some_Info"
