@@ -43,8 +43,8 @@ translations={
 		"starcard-weapon": "Starcard Weapons",
 		"starfighter": "Starfighters",
 		"trooper": "Troopers",
-		"ground" : "Multiplayer Ground Maps",
-		"space" : "Multiplayer Space Maps",
+		"ground" : "Infantry Maps",
+		"space" : "Naval Maps",
 		"campaign" : "Campaign Maps"
 	},
 	"mode": {

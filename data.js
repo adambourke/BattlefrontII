@@ -7,7 +7,6 @@ data=
             "subheader":"The Klosslands",
             "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/0/0a/Trospromo1.jpg/revision/latest",
             "summary":{
-               "maps":1,
                "online-modes":[
                   "mode/capital-supremacy",
                   "mode/co-op"
@@ -22,8 +21,7 @@ data=
             "subheader":"Administrator's Palace",
             "imgUrl":"https://cdnb.artstation.com/p/assets/covers/images/004/237/685/large/daniel-cambrand-danielcambrand-03.jpg",
             "summary":{
-               "maps":1,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/hvv"
                ],
@@ -40,8 +38,7 @@ data=
             "subheader":"Abandoned Rebel Outpost",
             "imgUrl":"https://cdna.artstation.com/p/assets/images/images/009/728/722/large/mikael-andersson-swbfii-mikaelandersson-28.jpg?1520549861",
             "summary":{
-               "maps":1,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/galactic-assault"
                ],
@@ -57,8 +54,7 @@ data=
             "subheader":"Command Sector North",
             "imgUrl":"img/location/death-star-ii.jpg",
             "summary":{
-               "maps":1,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/galactic-assault",
                   "mode/hero-showdown",
@@ -77,8 +73,7 @@ data=
             "subheader":"Ewok Village",
             "imgUrl":"https://media.contentapi.ea.com/content/legacy/starwars-ea-com/es_MX/starwars/battlefront/news-articles/the-star-wars-battlefront-planets--creating-endor/_jcr_content/featuredImage/renditions/rendition1.img.jpg",
             "summary":{
-               "maps":2,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/ewok-hunt",
                   "mode/galactic-assault",
@@ -99,8 +94,7 @@ data=
             "subheader":"Research Station 9",
             "imgUrl":"https://media.contentapi.ea.com/content/legacy/starwars-ea-com/es_MX/starwars/battlefront/news-articles/the-star-wars-battlefront-planets--creating-endor/_jcr_content/featuredImage/renditions/rendition1.img.jpg",
             "summary":{
-               "maps":2,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/ewok-hunt",
                   "mode/galactic-assault",
@@ -121,8 +115,7 @@ data=
             "subheader":"Tagata",
             "imgUrl":"https://cdn.wccftech.com/wp-content/uploads/2019/09/swbfII_clone_commando.jpg",
             "summary":{
-               "maps":1,
-               "online-modes":[
+                              "online-modes":[
                   "mode/capital-supremacy",
                   "mode/co-op"
                ],
@@ -136,8 +129,7 @@ data=
             "subheader":"Pipeline Junction West",
             "imgUrl":"https://cdnb.artstation.com/p/assets/images/images/014/320/967/large/pontus-ryman-swbfii-pontusryman-07.jpg?1543483500",
             "summary":{
-               "maps":2,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/capital-supremacy",
                   "mode/co-op",
@@ -157,8 +149,7 @@ data=
             "subheader":"Trippa Hive",
             "imgUrl":"https://cdnb.artstation.com/p/assets/images/images/014/320/967/large/pontus-ryman-swbfii-pontusryman-07.jpg?1543483500",
             "summary":{
-               "maps":2,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/capital-supremacy",
                   "mode/co-op",
@@ -178,8 +169,7 @@ data=
             "subheader":"Outpost Delta",
             "imgUrl":"https://lumiere-a.akamaihd.net/v1/images/Hoth_d074d307.jpeg",
             "summary":{
-               "maps":1,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/galactic-assault",
                   "mode/hero-showdown",
@@ -198,8 +188,7 @@ data=
             "subheader":"The Graveyard",
             "imgUrl":"https://cdna.artstation.com/p/assets/images/images/009/033/696/large/anton-kavousi-swbfii-antonkavousi-03.jpg?1516747707",
             "summary":{
-               "maps":1,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/galactic-assault",
                   "mode/hero-showdown",
@@ -219,8 +208,7 @@ data=
             "subheader":"Cloning Facility",
             "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/d/d1/Kamino_Facility_Andrew_Hamilton.jpg/revision/latest?cb=20180308210107",
             "summary":{
-               "maps":1,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/capital-supremacy",
                   "mode/co-op",
@@ -243,8 +231,7 @@ data=
             "subheader":"Kachirho Beach",
             "imgUrl":"https://i.redd.it/vocninji9jt11.jpg",
             "summary":{
-               "maps":2,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/capital-supremacy",
                   "mode/co-op",
@@ -266,8 +253,7 @@ data=
             "subheader":"Kachirho Beach (Treetops)",
             "imgUrl":"https://i.redd.it/vocninji9jt11.jpg",
             "summary":{
-               "maps":2,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/capital-supremacy",
                   "mode/co-op",
@@ -289,8 +275,7 @@ data=
             "subheader":"Coaxium Mine",
             "imgUrl":"https://cdna.artstation.com/p/assets/images/images/013/864/392/large/michael-anderson-swbfii-michaelanderson-21.jpg?1541431881",
             "summary":{
-               "maps":1,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/hero-showdown",
                   "mode/hvv",
@@ -308,8 +293,7 @@ data=
             "subheader":"Interior",
             "imgUrl":"img/location/mc85-star-cruiser.jpg",
             "summary":{
-               "maps":1,
-               "online-modes":[
+                              "online-modes":[
                   "mode/capital-supremacy"
                ],
                "offline-modes":[
@@ -322,8 +306,7 @@ data=
             "subheader":"Theed",
             "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/7/79/Naboo_Theed_-_Royal_Palace_%281%29_-_Mikael_Andersson_DICE.jpg",
             "summary":{
-               "maps":2,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/capital-supremacy",
                   "mode/co-op",
@@ -347,8 +330,7 @@ data=
             "subheader":"Theed Hangar",
             "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/7/79/Naboo_Theed_-_Royal_Palace_%281%29_-_Mikael_Andersson_DICE.jpg",
             "summary":{
-               "maps":2,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/capital-supremacy",
                   "mode/co-op",
@@ -372,8 +354,7 @@ data=
             "subheader":"Interior",
             "imgUrl":"img/location/resurgent-class-star-destroyer.jpg",
             "summary":{
-               "maps":1,
-               "online-modes":[
+                              "online-modes":[
                   "mode/capital-supremacy"
                ],
                "offline-modes":[
@@ -386,8 +367,7 @@ data=
             "subheader":"???",
             "imgUrl":"img/location/scarif.png",
             "summary":{
-               "maps":2,
-               "online-modes":[
+                              "online-modes":[
                   "mode/capital-supremacy",
                   "mode/co-op"
                ],
@@ -404,8 +384,7 @@ data=
             "subheader":"Interior",
             "imgUrl":"https://cdna.artstation.com/p/assets/images/images/020/328/558/large/saralie-wagstrom-swbf-saraliewagstrom-06.jpg?1567361315",
             "summary":{
-               "maps":1,
-               "online-modes":[
+                              "online-modes":[
                   "mode/capital-supremacy",
                   "mode/hvv"
                ],
@@ -419,8 +398,7 @@ data=
             "subheader":"Command Center",
             "imgUrl":"https://cdna.artstation.com/p/assets/images/images/010/231/578/large/marcus-fritze-swbfii-marcusfritze-18.jpg?1523305576",
             "summary":{
-               "maps":1,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/galactic-assault",
                   "mode/hero-showdown",
@@ -442,8 +420,7 @@ data=
             "subheader":"Maz'z Castle",
             "imgUrl":"https://cdnb.artstation.com/p/assets/images/images/009/707/633/large/daniel-rocque-swbfii-danielrocquebengtsson-02.jpg?1520445639",
             "summary":{
-               "maps":1,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/galactic-assault",
                   "mode/hero-showdown",
@@ -464,8 +441,7 @@ data=
             "subheader":"Jabba's Palace",
             "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/d/d9/Mos_Eisley_View.jpg/revision/latest?cb=20180307193130",
             "summary":{
-               "maps":2,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/galactic-assault",
                   "mode/hero-showdown",
@@ -485,8 +461,7 @@ data=
             "subheader":"Mos Eisley",
             "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/d/d9/Mos_Eisley_View.jpg/revision/latest?cb=20180307193130",
             "summary":{
-               "maps":2,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/galactic-assault",
                   "mode/hero-showdown",
@@ -506,8 +481,7 @@ data=
             "subheader":"Interior",
             "imgUrl":"https://images3.alphacoders.com/883/883581.png",
             "summary":{
-               "maps":1,
-               "online-modes":[
+                              "online-modes":[
                   "mode/capital-supremacy",
                   "mode/hvv"
                ],
@@ -521,8 +495,7 @@ data=
             "subheader":"The Great Temple",
             "imgUrl":"https://i.redd.it/ig9ectnjbgsz.jpg",
             "summary":{
-               "maps":1,
-               "online-modes":[
+                              "online-modes":[
                   "mode/blast",
                   "mode/galactic-assault",
                   "mode/hero-showdown",
@@ -566,21 +539,105 @@ data=
       ],
       "campaign":[
          {
-            "name":"Sullust",
+            "name":"Invincible Faith",
+            "subheader":"Mission: The Cleaner",
             "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/5/56/SWB2-Cache_Grab.jpg",
-            "availability":"unavailable",
             "alert":"campaign-only"
          },
          {
-            "name":"Vardos",
-            "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/c/c7/SWB2-Art-Vardos.jpg/revision/latest?cb=20171202011459",
-            "availability":"unavailable",
+            "name":"Endor",
+            "subheader":"Mission: The Battle of Endor",
+            "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/5/56/SWB2-Cache_Grab.jpg",
+            "alert":"campaign-only"
+         },
+         {
+            "name":"Death Star Debris",
+            "subheader":"Mission: The Battle of Endor",
+            "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/5/56/SWB2-Cache_Grab.jpg",
+            "alert":"campaign-only"
+         },
+         {
+            "name":"Fondor Shipyards",
+            "subheader":"Mission: The Dauntless",
+            "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/5/56/SWB2-Cache_Grab.jpg",
             "alert":"campaign-only"
          },
          {
             "name":"Pillio",
+            "subheader":"Mission: The Observatory",
             "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/e/e1/SWB2-The_Observatory.jpg/revision/latest?cb=20171202012804",
-            "availability":"unavailable",
+            "alert":"campaign-only"
+         },
+         {
+            "name":"Vardos",
+            "subheader":"Mission: The Storm",
+            "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/c/c7/SWB2-Art-Vardos.jpg/revision/latest?cb=20171202011459",
+            "alert":"campaign-only"
+         },
+         {
+            "name":"Naboo (Space)",
+            "subheader":"Mission: The Outcasts",
+            "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/c/c7/SWB2-Art-Vardos.jpg/revision/latest?cb=20171202011459",
+            "alert":"campaign-only"
+         },
+         {
+            "name":"Takodana",
+            "subheader":"Mission: General Distress",
+            "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/c/c7/SWB2-Art-Vardos.jpg/revision/latest?cb=20171202011459",
+            "alert":"campaign-only"
+         },
+         {
+            "name":"Bespin (Atmosphere)",
+            "subheader":"Mission: Under Covered Skies",
+            "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/c/c7/SWB2-Art-Vardos.jpg/revision/latest?cb=20171202011459",
+            "alert":"campaign-only"
+         },
+         {
+            "name":"Sullust",
+            "subheader":"Mission: Cache Grab",
+            "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/5/56/SWB2-Cache_Grab.jpg",
+            "alert":"campaign-only"
+         },
+         {
+            "name":"Jakku (Atmosphere)",
+            "subheader":"Mission: The Battle of Jakku",
+            "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/5/56/SWB2-Cache_Grab.jpg",
+            "alert":"campaign-only"
+         },
+         {
+            "name":"Jakku",
+            "subheader":"Mission: The Battle of Jakku",
+            "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/5/56/SWB2-Cache_Grab.jpg",
+            "alert":"campaign-only"
+         },
+         {
+            "name":"Eviscerator",
+            "subheader":"Mission: Until Ashes",
+            "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/5/56/SWB2-Cache_Grab.jpg",
+            "alert":"campaign-only"
+         },
+         {
+            "name":"Takodana",
+            "subheader":"Mission: General Distress",
+            "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/c/c7/SWB2-Art-Vardos.jpg/revision/latest?cb=20171202011459",
+            "alert":"campaign-only"
+         },
+         {
+            "name":"Athulla",
+            "subheader":"Mission: Project Resurrection",
+            "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/c/c7/SWB2-Art-Vardos.jpg/revision/latest?cb=20171202011459",
+            "alert":"campaign-only"
+         },
+         {
+            "name":"Vardos (Ashes)",
+            "subheader":"Mission: Ashes of the Empire",
+            "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/c/c7/SWB2-Art-Vardos.jpg/revision/latest?cb=20171202011459",
+            "alert":"campaign-only"
+         },
+         {
+            "name":"Resurgent-class Star Destroyer",
+            "subheader":"Mission: Inferno",
+            "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/c/c7/SWB2-Art-Vardos.jpg/revision/latest?cb=20171202011459",
             "alert":"campaign-only"
          }
       ]
