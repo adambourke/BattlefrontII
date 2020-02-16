@@ -2,7 +2,7 @@ data={
     "locations":{
 		"ground" :[ 
         { 
-            "name":"Ajan Kloss",
+            "name":"Ajan Kloss: The Klosslands",
             "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/0/0a/Trospromo1.jpg/revision/latest",
             "summary":{ 
                 "maps":1,
@@ -16,7 +16,7 @@ data={
             }
         },
         { 
-            "name":"Bespin",
+            "name":"Bespin: Administrator's Palace",
             "imgUrl":"https://cdnb.artstation.com/p/assets/covers/images/004/237/685/large/daniel-cambrand-danielcambrand-03.jpg",
             "summary":{ 
                 "maps":1,
@@ -33,7 +33,7 @@ data={
             }
         },
         { 
-            "name":"Crait",
+            "name":"Crait: Abandoned Rebel Outpost",
             "imgUrl":"https://cdna.artstation.com/p/assets/images/images/009/728/722/large/mikael-andersson-swbfii-mikaelandersson-28.jpg?1520549861",
             "summary":{ 
                 "maps":1,
@@ -49,7 +49,7 @@ data={
             }
         },
         { 
-            "name":"Death Star II",
+            "name":"Death Star II: Command Sector North",
             "imgUrl":"img/location/death-star-ii.jpg",
             "summary":{ 
                 "maps":1,
@@ -68,7 +68,7 @@ data={
             }
         },
         { 
-            "name":"Dreadnought",
+            "name":"Separatist Dreadnought",
             "imgUrl":"https://cdna.artstation.com/p/assets/images/images/020/328/558/large/saralie-wagstrom-swbf-saraliewagstrom-06.jpg?1567361315",
             "summary":{ 
                 "maps":1,
@@ -82,7 +82,7 @@ data={
             }
         },
         { 
-            "name":"Endor",
+            "name":"Endor: Ewok Village",
             "imgUrl":"https://media.contentapi.ea.com/content/legacy/starwars-ea-com/es_MX/starwars/battlefront/news-articles/the-star-wars-battlefront-planets--creating-endor/_jcr_content/featuredImage/renditions/rendition1.img.jpg",
             "summary":{ 
                 "maps":2,
@@ -103,7 +103,28 @@ data={
             }
         },
         { 
-            "name":"Felucia",
+            "name":"Endor: Research Station 9",
+            "imgUrl":"https://media.contentapi.ea.com/content/legacy/starwars-ea-com/es_MX/starwars/battlefront/news-articles/the-star-wars-battlefront-planets--creating-endor/_jcr_content/featuredImage/renditions/rendition1.img.jpg",
+            "summary":{ 
+                "maps":2,
+                "online-modes":[ 
+                    "mode/blast",
+                    "mode/ewok-hunt",
+                    "mode/galactic-assault",
+                    "mode/hero-showdown",
+                    "mode/hvv",
+                    "mode/strike"
+                ],
+                "offline-modes":[ 
+                    "mode/campaign",
+                    "mode/onslaught",
+                    "mode/team-battle",
+                    "mode/duel"
+                ]
+            }
+        },
+        { 
+            "name":"Felucia: Tagata",
             "imgUrl":"https://cdn.wccftech.com/wp-content/uploads/2019/09/swbfII_clone_commando.jpg",
             "summary":{ 
                 "maps":1,
@@ -117,7 +138,7 @@ data={
             }
         },
         { 
-            "name":"Geonosis",
+            "name":"Geonosis: Pipeline Junction West",
             "imgUrl":"https://cdnb.artstation.com/p/assets/images/images/014/320/967/large/pontus-ryman-swbfii-pontusryman-07.jpg?1543483500",
             "summary":{ 
                 "maps":2,
@@ -137,7 +158,27 @@ data={
             }
         },
         { 
-            "name":"Hoth",
+            "name":"Geonosis: Trippa Hive",
+            "imgUrl":"https://cdnb.artstation.com/p/assets/images/images/014/320/967/large/pontus-ryman-swbfii-pontusryman-07.jpg?1543483500",
+            "summary":{ 
+                "maps":2,
+                "online-modes":[ 
+                    "mode/blast",
+                    "mode/capital-supremacy",
+                    "mode/co-op",
+                    "mode/galactic-assault",
+                    "mode/hvv"
+                ],
+                "offline-modes":[ 
+                    "mode/instant-action",
+                    "mode/onslaught",
+                    "mode/team-battle",
+                    "mode/duel"
+                ]
+            }
+        },
+        { 
+            "name":"Hoth: Outpost Delta",
             "imgUrl":"https://lumiere-a.akamaihd.net/v1/images/Hoth_d074d307.jpeg",
             "summary":{ 
                 "maps":1,
@@ -156,7 +197,7 @@ data={
             }
         },
         { 
-            "name":"Jakku",
+            "name":"Jakku: The Graveyard",
             "imgUrl":"https://cdna.artstation.com/p/assets/images/images/009/033/696/large/anton-kavousi-swbfii-antonkavousi-03.jpg?1516747707",
             "summary":{ 
                 "maps":1,
@@ -176,7 +217,7 @@ data={
             }
         },
         { 
-            "name":"Kamino",
+            "name":"Kamino: Cloning Facility",
             "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/d/d1/Kamino_Facility_Andrew_Hamilton.jpg/revision/latest?cb=20180308210107",
             "summary":{ 
                 "maps":1,
@@ -199,7 +240,7 @@ data={
             }
         },
         { 
-            "name":"Kashyyyk",
+            "name":"Kashyyyk: Kachirho Beach",
             "imgUrl":"https://i.redd.it/vocninji9jt11.jpg",
             "summary":{ 
                 "maps":2,
@@ -221,7 +262,29 @@ data={
             }
         },
         { 
-            "name":"Kessel",
+            "name":"Kashyyyk: Kachirho Beach Treetops",
+            "imgUrl":"https://i.redd.it/vocninji9jt11.jpg",
+            "summary":{ 
+                "maps":2,
+                "online-modes":[ 
+                    "mode/blast",
+                    "mode/capital-supremacy",
+                    "mode/co-op",
+                    "mode/galactic-assault",
+                    "mode/hero-showdown",
+                    "mode/hvv",
+                    "mode/strike"
+                ],
+                "offline-modes":[ 
+                    "mode/instant-action",
+                    "mode/onslaught",
+                    "mode/team-battle",
+                    "mode/duel"
+                ]
+            }
+        },
+        { 
+            "name":"Kessel: Coaxium Mine",
             "imgUrl":"https://cdna.artstation.com/p/assets/images/images/013/864/392/large/michael-anderson-swbfii-michaelanderson-21.jpg?1541431881",
             "summary":{ 
                 "maps":1,
@@ -252,7 +315,31 @@ data={
             }
         },
         { 
-            "name":"Naboo",
+            "name":"Naboo: Theed",
+            "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/7/79/Naboo_Theed_-_Royal_Palace_%281%29_-_Mikael_Andersson_DICE.jpg",
+            "summary":{ 
+                "maps":2,
+                "online-modes":[ 
+                    "mode/blast",
+                    "mode/capital-supremacy",
+                    "mode/co-op",
+                    "mode/galactic-assault",
+                    "mode/hero-showdown",
+                    "mode/hvv",
+                    "mode/strike"
+                ],
+                "offline-modes":[ 
+                    "mode/battle-scenarios",
+                    "mode/campaign",
+                    "mode/instant-action",
+                    "mode/onslaught",
+                    "mode/team-battle",
+                    "mode/duel"
+                ]
+            }
+        },
+        { 
+            "name":"Naboo: Theed Hangar",
             "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/7/79/Naboo_Theed_-_Royal_Palace_%281%29_-_Mikael_Andersson_DICE.jpg",
             "summary":{ 
                 "maps":2,
@@ -310,7 +397,7 @@ data={
             }
         },
         { 
-            "name":"Starkiller Base",
+            "name":"Starkiller Base: Command Center",
             "imgUrl":"https://cdna.artstation.com/p/assets/images/images/010/231/578/large/marcus-fritze-swbfii-marcusfritze-18.jpg?1523305576",
             "summary":{ 
                 "maps":1,
@@ -338,7 +425,7 @@ data={
             "alert":"campaign-only"
         },
         { 
-            "name":"Takodana",
+            "name":"Takodana: Maz'z Castle",
             "imgUrl":"https://cdnb.artstation.com/p/assets/images/images/009/707/633/large/daniel-rocque-swbfii-danielrocquebengtsson-02.jpg?1520445639",
             "summary":{ 
                 "maps":1,
@@ -359,7 +446,27 @@ data={
             }
         },
         { 
-            "name":"Tatooine",
+            "name":"Tatooine: Jabba's Palace",
+            "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/d/d9/Mos_Eisley_View.jpg/revision/latest?cb=20180307193130",
+            "summary":{ 
+                "maps":2,
+                "online-modes":[ 
+                    "mode/blast",
+                    "mode/galactic-assault",
+                    "mode/hero-showdown",
+                    "mode/hvv",
+                    "mode/strike"
+                ],
+                "offline-modes":[ 
+                    "mode/battle-scenarios",
+                    "mode/onslaught",
+                    "mode/team-battle",
+                    "mode/duel"
+                ]
+            }
+        },
+        { 
+            "name":"Tatooine: Mos Eisley",
             "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/d/d9/Mos_Eisley_View.jpg/revision/latest?cb=20180307193130",
             "summary":{ 
                 "maps":2,
@@ -399,7 +506,7 @@ data={
             }
         },
         { 
-            "name":"Yavin 4",
+            "name":"Yavin 4: The Great Temple",
             "imgUrl":"https://i.redd.it/ig9ectnjbgsz.jpg",
             "summary":{ 
                 "maps":1,
@@ -419,7 +526,26 @@ data={
             }
         }
     ],
-	"space" : [],
+	"space" : [
+	{
+		"name": "D'Qar: Resistance Base Evacuation"
+	},
+	{
+		"name": "Endor: Death Star Debris"
+	},
+	{
+		"name": "Fondor: Imperial Shipyard"
+	},
+	{
+		"name": "Kamino: Research Outpost"
+	},
+	{
+		"name": "Ryloth: Lucrehulk Battleship"
+	},
+	{
+		"name": "Unknown Regions: Resurgent Star Destroyer"
+	}
+	],
 "campaign": []	
 	},
     "characters":{ 
