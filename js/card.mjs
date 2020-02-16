@@ -1,5 +1,5 @@
 import {translate} from "./utils.mjs";
-import {e, Header, Image} from "./react-utils.mjs";
+import {e, Header, SubHeader, Image} from "./react-utils.mjs";
 
 export class Card extends React.Component {
   constructor(props) {
@@ -67,6 +67,10 @@ export class Card extends React.Component {
 					className:className,
 					value:this.props.name
 				})
+			, (this.props.subHeader != null ? Subheader({
+					className:className,
+					value:this.props.subHeader
+				}) : null)
 			, this.renderDetails()]
     );
   }

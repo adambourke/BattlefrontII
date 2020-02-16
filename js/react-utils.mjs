@@ -5,6 +5,10 @@ export const e = React.createElement;
 export function Header(props) {
 	return e('h1', props, translate(props.value)); 
 }
+
+export function Subheader(props) {
+	return e('h2', props, translate(props.value)); 
+}
   
 export function Image(props) {
 	 return e(

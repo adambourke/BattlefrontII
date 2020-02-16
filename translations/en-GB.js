@@ -42,7 +42,10 @@ translations={
 		"specialist-weapon": "Specialist Weapons",
 		"starcard-weapon": "Starcard Weapons",
 		"starfighter": "Starfighters",
-		"trooper": "Troopers"
+		"trooper": "Troopers",
+		"ground" : "Multiplayer Ground Maps"
+		"space" : "Multiplayer Space Maps"
+		"campaign" : "Campaign Maps"
 	},
 	"mode": {
 		"hvv": "Heroes Vs Villains",
