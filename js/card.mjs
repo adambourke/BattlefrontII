@@ -26,7 +26,7 @@ export class Card extends React.Component {
 	if (this.props.alert){
 		return e(
       'h2',
-      {className:"itemCard showOnHover"},
+      {className:"itemcard alert showOnHover"},
 	  translate("alert/" + this.props.alert)
     ); 
 	}
@@ -71,7 +71,7 @@ export class Card extends React.Component {
 				})
 			, Subheader({
 					className:className,
-					value:this.props.subHeader
+					value:this.props.subheader
 				})
 			, this.renderDetails()]
     );

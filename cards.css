@@ -132,9 +132,17 @@ body {
 		margin-top: 10;
 		font-size: 1.5em;
 	}
-
-
+	
 	h2.itemCard {
+		text-align: right;
+		color: gray;
+		margin: 5;
+		margin-top: 10;
+		font-size: 1.5em;
+	}
+
+
+	h2.alert {
 		text-align: center;
 		color: #9e9224;
 		margin: 30 5;
