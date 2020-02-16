@@ -415,7 +415,7 @@ data={
                     "mode/campaign",
                     "mode/instant-action"
                 ]
-            }.
+            },
 			"availability": "future-content",
 			"alert": "coming-soon"
         },
