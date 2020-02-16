@@ -3,7 +3,7 @@ data={
 		"ground" :[ 
         { 
             "name":"Ajan Kloss",
-			"subheader": "The Klosslands"
+			"subheader": "The Klosslands",
             "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/0/0a/Trospromo1.jpg/revision/latest",
             "summary":{ 
                 "maps":1,
