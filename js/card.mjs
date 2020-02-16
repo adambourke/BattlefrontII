@@ -54,6 +54,8 @@ export class Card extends React.Component {
 		className += " " + this.props.availability;
 	}
 	
+	
+	
 	  
     return e(
 			'div',
@@ -67,10 +69,10 @@ export class Card extends React.Component {
 					className:className,
 					value:this.props.name
 				})
-			, (this.props.subHeader != null ? Subheader({
+			, Subheader({
 					className:className,
 					value:this.props.subHeader
-				}) : null)
+				})
 			, this.renderDetails()]
     );
   }
