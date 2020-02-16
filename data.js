@@ -2,7 +2,8 @@ data={
     "locations":{
 		"ground" :[ 
         { 
-            "name":"Ajan Kloss: The Klosslands",
+            "name":"Ajan Kloss",
+			"subheader": "The Klosslands"
             "imgUrl":"https://vignette.wikia.nocookie.net/battlefront/images/0/0a/Trospromo1.jpg/revision/latest",
             "summary":{ 
                 "maps":1,
