@@ -12,7 +12,7 @@ data=
                   "mode/co-op"
                ],
                "offline-modes":[
-
+                  "mode/instant-action",
                ]
             }
          },
@@ -56,6 +56,7 @@ data=
             "summary":{
                               "online-modes":[
                   "mode/blast",
+				  "mode/co-op",
                   "mode/galactic-assault",
                   "mode/hero-showdown",
                   "mode/hvv",
@@ -74,18 +75,9 @@ data=
             "imgUrl":"https://media.contentapi.ea.com/content/legacy/starwars-ea-com/es_MX/starwars/battlefront/news-articles/the-star-wars-battlefront-planets--creating-endor/_jcr_content/featuredImage/renditions/rendition1.img.jpg",
             "summary":{
                               "online-modes":[
-                  "mode/blast",
-                  "mode/ewok-hunt",
-                  "mode/galactic-assault",
-                  "mode/hero-showdown",
-                  "mode/hvv",
-                  "mode/strike"
+                  "mode/ewok-hunt"
                ],
                "offline-modes":[
-                  "mode/campaign",
-                  "mode/onslaught",
-                  "mode/team-battle",
-                  "mode/duel"
                ]
             }
          },
@@ -96,7 +88,7 @@ data=
             "summary":{
                               "online-modes":[
                   "mode/blast",
-                  "mode/ewok-hunt",
+				  "mode/co-op",
                   "mode/galactic-assault",
                   "mode/hero-showdown",
                   "mode/hvv",
@@ -130,17 +122,10 @@ data=
             "imgUrl":"https://cdnb.artstation.com/p/assets/images/images/014/320/967/large/pontus-ryman-swbfii-pontusryman-07.jpg?1543483500",
             "summary":{
                               "online-modes":[
-                  "mode/blast",
-                  "mode/capital-supremacy",
-                  "mode/co-op",
-                  "mode/galactic-assault",
-                  "mode/hvv"
+                  "mode/capital-supremacy"
                ],
                "offline-modes":[
-                  "mode/instant-action",
-                  "mode/onslaught",
-                  "mode/team-battle",
-                  "mode/duel"
+                  "mode/instant-action"
                ]
             }
          },
@@ -152,12 +137,10 @@ data=
                               "online-modes":[
                   "mode/blast",
                   "mode/capital-supremacy",
-                  "mode/co-op",
                   "mode/galactic-assault",
                   "mode/hvv"
                ],
                "offline-modes":[
-                  "mode/instant-action",
                   "mode/onslaught",
                   "mode/team-battle",
                   "mode/duel"
@@ -171,6 +154,7 @@ data=
             "summary":{
                               "online-modes":[
                   "mode/blast",
+				  "mode/co-op",
                   "mode/galactic-assault",
                   "mode/hero-showdown",
                   "mode/hvv",
@@ -190,6 +174,8 @@ data=
             "summary":{
                               "online-modes":[
                   "mode/blast",
+				  "mode/capital-supremacy",
+				  "mode/co-op",
                   "mode/galactic-assault",
                   "mode/hero-showdown",
                   "mode/hvv",
@@ -277,9 +263,11 @@ data=
             "summary":{
                               "online-modes":[
                   "mode/blast",
+				  "mode/co-op",
                   "mode/hero-showdown",
                   "mode/hvv",
-                  "mode/strike"
+                  "mode/strike",
+				  
                ],
                "offline-modes":[
                   "mode/onslaught",
@@ -294,7 +282,8 @@ data=
             "imgUrl":"img/location/mc85-star-cruiser.jpg",
             "summary":{
                               "online-modes":[
-                  "mode/capital-supremacy"
+                  "mode/capital-supremacy",
+				  "mode/hvv",
                ],
                "offline-modes":[
 
@@ -355,7 +344,8 @@ data=
             "imgUrl":"img/location/resurgent-class-star-destroyer.jpg",
             "summary":{
                               "online-modes":[
-                  "mode/capital-supremacy"
+                  "mode/capital-supremacy",
+				  "mode/hvv",
                ],
                "offline-modes":[
 
@@ -386,6 +376,7 @@ data=
             "summary":{
                               "online-modes":[
                   "mode/capital-supremacy",
+				  "mode/co-op",
                   "mode/hvv"
                ],
                "offline-modes":[
@@ -400,6 +391,7 @@ data=
             "summary":{
                               "online-modes":[
                   "mode/blast",
+				  "mode/co-op",
                   "mode/galactic-assault",
                   "mode/hero-showdown",
                   "mode/hvv",
@@ -422,6 +414,8 @@ data=
             "summary":{
                               "online-modes":[
                   "mode/blast",
+				  "mode/capital-supremacy",
+				  "mode/co-op",
                   "mode/galactic-assault",
                   "mode/hero-showdown",
                   "mode/hvv",
@@ -443,6 +437,7 @@ data=
             "summary":{
                               "online-modes":[
                   "mode/blast",
+				  "mode/co-op",
                   "mode/galactic-assault",
                   "mode/hero-showdown",
                   "mode/hvv",
@@ -463,6 +458,7 @@ data=
             "summary":{
                               "online-modes":[
                   "mode/blast",
+				  "mode/co-op",
                   "mode/galactic-assault",
                   "mode/hero-showdown",
                   "mode/hvv",
@@ -483,6 +479,7 @@ data=
             "summary":{
                               "online-modes":[
                   "mode/capital-supremacy",
+				  "mode/co-op",
                   "mode/hvv"
                ],
                "offline-modes":[
@@ -497,6 +494,7 @@ data=
             "summary":{
                               "online-modes":[
                   "mode/blast",
+				  "mode/co-op",
                   "mode/galactic-assault",
                   "mode/hero-showdown",
                   "mode/hvv",
@@ -879,6 +877,18 @@ data=
             "imgUrl":"img/reinforcement/infiltrator/commando-droid.jpg"
          },
          {
+            "name":"Ewok",
+            "subheader":"Infiltrator",
+            "imgUrl":"https://starwarsblog.starwars.com/wp-content/uploads/2018/04/star-wars-battlefront-II-ewok-mode-tall.jpg",
+
+         },
+         {
+            "name":"ISBAgent",
+            "subheader":"Infiltrator",
+            "imgUrl":"https://starwarsblog.starwars.com/wp-content/uploads/2018/04/star-wars-battlefront-II-ewok-mode-tall.jpg",
+
+         },
+         {
             "name":"Caphex Spy",
             "subheader":"Infiltrator",
             "imgUrl":"img/reinforcement/infiltrator/caphex-spy.png"
@@ -952,13 +962,6 @@ data=
             "name":"First Order Jet Trooper",
             "subheader":"Aerial",
             "imgUrl":"img/reinforcement/aerial/first-order-jet-trooper.png"
-         },
-         {
-            "name":"Ewok",
-            "subheader":"Night Terror",
-            "imgUrl":"https://starwarsblog.starwars.com/wp-content/uploads/2018/04/star-wars-battlefront-II-ewok-mode-tall.jpg",
-            "availability":"unavailable",
-            "alert":"ewok-hunt-only"
          }
       ],
       "trooper":[
@@ -1676,20 +1679,6 @@ data=
          }
       ],
       "reinforcement":[
-         {
-            "name":"ISB Officer",
-            "imgUrl":"",
-            "summary":{
-               "rumours/datamines":"Text Reference, Possible Animations"
-            }
-         },
-         {
-            "name":"Ewok",
-            "imgUrl":"https://starwarsblog.starwars.com/wp-content/uploads/2018/04/star-wars-battlefront-II-ewok-mode-tall.jpg",
-            "summary":{
-               "rumours      /datamines":"New Animations, 'Ewok Bow' Weapon"
-            }
-         }
       ]
    }
 }
