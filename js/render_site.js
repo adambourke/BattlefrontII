@@ -24,7 +24,7 @@ ReactDOM.render(e(NavigationBar, {fields, selectedField:path}), domContainer2);
 
 //PageLayout
 if (pageconfig.pageType = "cardflow"){
-	pagedata = data[path]);
+	pagedata = data[path];
 	let domContainer = document.querySelector('#page_container');
 	ReactDOM.render(e(PageLayout, {data:pagedata}), domContainer);
 }
