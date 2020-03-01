@@ -1,11 +1,13 @@
 translations={
 	"navigation": {
 		"locations": "Locations",
+		"classes": "Classes",
 		"characters": "Characters",
 		"vehicles": "Vehicles",
 		"starfighters": "Starfighters",
 		"weapons": "Weapons",
-		"rumours": "Rumours"
+		"rumours": "Rumours",
+		"timeline": "Timeline"
 	},
 	"alert": {
 		"campaign-only": "This content is only available in the campaign",

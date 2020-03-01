@@ -1,4 +1,10 @@
 config = {
+	"navigation" : [
+		"locations",
+		"classes",
+		"weapons",
+		"timeline"
+	],
     "pages":{
         "locations":{
             "pageType":"cardflow",
